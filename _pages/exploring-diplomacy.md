@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: exploring-diplomacy
+permalink: /exploring-diplomacy
 ---
 <section class="wide">
     <h1>Exploring Diplomacy</h1>

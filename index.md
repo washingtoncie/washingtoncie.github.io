@@ -4,6 +4,8 @@ layout: default
 <section class="wide">
     <h1>About WCIE</h1>
 </section>
+## Need to add image slider
+
 **WCIE invites students to engage with each other and their world. Our purpose is active learning and service in community; and our programs are internationally-oriented and designed to inspire.**
 
 We all need to come together to address the world’s most pressing challenges. WCIE programs address tough topics like [racism](https://washingtoncie.org/community-service-and-ssl/youth-facing-racism/), the [global migration and refugee crisis](https://washingtoncie.org/community-service-and-ssl/youth-facing-the-global-migration-and-refugee-crisis/), and [conservation and the environment](https://washingtoncie.org/community-service-and-ssl/youth-facing-the-global-freshwater-crisis/). We take a holistic approach to intellectual, social, and emotional growth. We serve the student, and we hope to reach students’ families as well.
