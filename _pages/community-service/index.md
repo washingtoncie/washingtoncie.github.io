@@ -2,9 +2,7 @@
 layout: default
 permalink: /community-service
 ---
-<section class="wide">
-    <h1>Community Service</h1>
-</section>
+# Community Service
 **Our Community Service Programs: Connecting the Washington, D.C.-Area International and Local Communities**
 ![](https://lh4.googleusercontent.com/rxBGahBtQwlPtznnjpYaU1tXXE7L82BXfkrGJZ_DGNQDoq2RSQjlqtKKZiheIkJE8xdA0zgY-b6kLcV_Eq6hWdK9SNAPavegL4P0gqe40jsYOPTgNcPCG8oCcgkQ28y-G73y7_HP)WCIE community service programs are organized in collaboration with English Now!, an English school located in Bethesda, Maryland.
 

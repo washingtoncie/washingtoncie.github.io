@@ -2,9 +2,7 @@
 layout: default
 permalink: /student-service-learning
 ---
-<section class="wide">
-    <h1>Student Service Learning (SSL)</h1>
-</section>
+# Student Service Learning (SSL)
 ![Students at Corhaven Graveyard](https://washingtoncie.org/wp-content/uploads/2020/10/students-at-corhaven-1024x768.jpg "students-at-corhaven")
 ![WCIE - Website Image - Experiential and Service Learning](http://washingtoncie.org/wp-content/uploads/2019/03/WCIE-Website-Image-Experiential-and-Service-Learning.jpg "WCIE - Website Image - Experiential and Service Learning")
 

@@ -2,9 +2,7 @@
 layout: default
 permalink: /support-wcie
 ---
-<section class="wide">
-    <h1>Support WCIE</h1>
-</section>
+# Support WCIE
 **Join Us to Support Students and Families in International Education**
 
 We thank you for your interest in the Washington Center for International Education. We look forward to meeting you and hope you can join our programs. We are often asked how people can support what we do. If you are interested not only in joining our programs but also in supporting our mission, we invite you to consider the following:

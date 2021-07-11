@@ -2,9 +2,7 @@
 layout: default
 permalink: /student-service-learning/youth-facing-the-global-refugee-and-migration-crisis
 ---
-<section class="wide">
-    <h1>Youth Facing the Global Refugee and Migration Crisis</h1>
-</section>
+# Youth Facing the Global Refugee and Migration Crisis
 ## **YOUTH FACING THE GLOBAL MIGRATION AND REFUGEE CRISIS: A DIPLOMACY SIMULATION & ADVOCACY PROGRAM**
 
 **_Do you want to learn to negotiate international crises like a diplomat? Do you want to explore how to advocate for migration and refugee policies in the U.S. and around the world?_**

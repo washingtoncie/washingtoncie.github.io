@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<section class="wide">
-    <h1>About WCIE</h1>
-</section>
+# About WCIE
 ## Need to add image slider
 
 **WCIE invites students to engage with each other and their world. Our purpose is active learning and service in community; and our programs are internationally-oriented and designed to inspire.**

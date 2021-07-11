@@ -2,9 +2,7 @@
 layout: default
 permalink: /exploring-diplomacy
 ---
-<section class="wide">
-    <h1>Exploring Diplomacy</h1>
-</section>
+# Exploring Diplomacy
 **Programs**
 
 Join us to explore the world of diplomacy in Washington, D.C.'s international community. Develop cross-cultural negotiation and teambuilding skills. Our programs use [simulations](https://diplomacy.state.gov/education/about/class-materials) developed by the State Department's [U.S. Diplomacy Center](https://diplomacy.state.gov/) to help participants develop high-level, real-life communications skills and engage some of the world's most pressing issues. In simulations, small groups of two to four students represent a "stakeholder" in multiple rounds of negotiations. Stakeholders include NGOs, national governments, multilateral organizations, United Nations representatives, and non-state actors.

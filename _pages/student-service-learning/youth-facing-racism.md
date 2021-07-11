@@ -2,9 +2,7 @@
 layout: default
 permalink: /student-service-learning/youth-facing-racism
 ---
-<section class="wide">
-    <h1>Youth Facing Racism</h1>
-</section>
+# Youth Facing Racism
 ## **YOUTH FACING RACISM: ENGAGING AMERICAN EXPERIENCES OF RACE, ETHNICITY, AND IDENTITY**
 **[![](https://washingtoncie.org/wp-content/uploads/2020/12/image4-1024x768.jpg)](https://washingtoncie.org/wp-content/uploads/2020/12/image4.jpg)A three-week program for high school students.** This dynamic SSL program for high school students includes online small group discussions as well as a service project completed at Corhaven Graveyard, a historical burial ground for African Americans who were enslaved in Shenandoah County, Virginia. This program consists of three weeks of online discussions, plus a 2/3-day field trip.
 
