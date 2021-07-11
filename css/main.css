@@ -12,7 +12,6 @@ body {
   width: clamp(45ch, 50%, 75ch);
   margin: auto;
   padding-bottom: 20px;
-  line-height: 1.3rem;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--sans);
