@@ -3,7 +3,7 @@ layout: default
 permalink: /community-service/community-service-weeks
 ---
 # Community Service Weeks
-**Join our "Community Service Week" activities. THINK GLOBALLY, SERVE LOCALLY!**
+**Join our "Community Service Week" activities. Think globally, serve locally!**
 
 We have offered Community Service Weeks twice a year, in partnership with English Now!, since 2016. Community Service Weeks offer many options to participate in small group community service activities. Our Spring 2021 Community Service Week took place April 12-22; and our Fall 2021 Community Service Week will take place September 10-19.
 

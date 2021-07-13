@@ -2,8 +2,7 @@
 layout: default
 permalink: /student-service-learning/youth-facing-the-global-refugee-and-migration-crisis
 ---
-# Youth Facing the Global Refugee and Migration Crisis
-## **YOUTH FACING THE GLOBAL MIGRATION AND REFUGEE CRISIS: A DIPLOMACY SIMULATION & ADVOCACY PROGRAM**
+# Youth Facing the Global Refugee and Migration Crisis: A Diplomacy Simulation & Advocacy Program
 
 **_Do you want to learn to negotiate international crises like a diplomat? Do you want to explore how to advocate for migration and refugee policies in the U.S. and around the world?_**
 
@@ -26,7 +25,8 @@ See [here](https://diplomacy.state.gov/) for information about the U.S. Departme
 This Diplomacy Simulation program includes **two online preparation and negotiation Sessions:**
 -   **Session 1**: Students receive their scenario materials and are divided into stakeholder teams representing the affected countries, the United Nations and a non-governmental refugee rights organization. Teams meet to prepare their negotiating strategies.
 -   **Session 2**:  Students representing their stakeholder teams learn how to prepare, strategize, and negotiate with each other in informal and formal negotiation sessions, with the goal of achieving a diplomatic solution to the immigration and refugee crisis scenario.
-## **![](https://washingtoncie.org/wp-content/uploads/2020/10/diplomacy-2.jpg)**
+
+![](https://washingtoncie.org/wp-content/uploads/2020/10/diplomacy-2.jpg)
 
 **Advocacy service project.** In addition, students will complete an advocacy service project, under the guidance of program facilitators, after the Diplomacy Simulation.
 

@@ -3,7 +3,7 @@ layout: default
 permalink: /student-service-learning/youth-facing-racism
 ---
 # Youth Facing Racism
-## **YOUTH FACING RACISM: ENGAGING AMERICAN EXPERIENCES OF RACE, ETHNICITY, AND IDENTITY**
+## **Youth Facing Racism: Engaging American Experiences of Race, Ethnicity, and Identity**
 **[![](https://washingtoncie.org/wp-content/uploads/2020/12/image4-1024x768.jpg)](https://washingtoncie.org/wp-content/uploads/2020/12/image4.jpg)A three-week program for high school students.** This dynamic SSL program for high school students includes online small group discussions as well as a service project completed at Corhaven Graveyard, a historical burial ground for African Americans who were enslaved in Shenandoah County, Virginia. This program consists of three weeks of online discussions, plus a 2/3-day field trip.
 
 **Online small group discussions.** Small group discussions – maximum six students – bring students from different high schools together for facilitated conversations regarding race and racism in American society. Students complete short, common readings, listen to podcasts, and review other media, to frame conversations that are held on Zoom.

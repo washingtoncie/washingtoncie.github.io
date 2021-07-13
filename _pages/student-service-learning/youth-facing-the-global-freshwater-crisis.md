@@ -3,7 +3,7 @@ layout: default
 permalink: /student-service-learning/youth-facing-the-global-freshwater-crisis
 ---
 # Youth Facing the Global Freshwater Crisis
-## **YOUTH FACING THE GLOBAL FRESHWATER CRISIS: A DIPLOMACY SIMULATION & ADVOCACY PROGRAM**
+## **Youth Facing the Global Freshwater Crisis: A Diplomacy Simulation & Advocacy Program**
 
 **_Do you want to learn to negotiate international crises like a diplomat? Do you want to explore how to advocate for action on conservation and the environment in the U.S. and around the world?_**
 
