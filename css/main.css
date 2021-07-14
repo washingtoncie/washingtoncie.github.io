@@ -1,34 +1,64 @@
 :root {
-  --background: #fff;
-  --text: #000;
   --sans: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, Helvetica, "Helvetica Neue", Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
   --serif: "New York", Charter, Georgia, Cambria, "Times New Roman", Times, serif;
   --mono: San Francisco Mono, Monaco, "Consolas", "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+  --primary: rgb(67, 170, 144);
+  --secondary: rgb(241, 141, 0);
+  --tertiary: rgb(157, 200, 21);
 }
 body {
-  background: var(--background);
-  color: var(--text);
   font-family: var(--serif);
-  width: clamp(45ch, 50%, 75ch);
-  margin: auto;
   padding-bottom: 20px;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--sans);
 }
 a {
-  color: var(--text);
+  color: var(--tertiary);
 }
-img, iframe {
+nav {
+    transition: box-shadow 0.3s;
+    text-align: center;
+}
+nav ul {
+    vertical-align: top;
+    list-style-type: none;
+    text-align: center;
+}
+nav li {
+    position: relative;
+    margin-left: 20px;
+    display: inline-block;
+    transition: border-bottom 0.3s;
+}
+nav li ul {
+    position: absolute;
+    z-index: 5;
+    text-align: center;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    width: 100%;
+    margin: 0px;
+    padding: 5px 4px;
+    border-radius: 3px;
+    transition: opacity 0.3s;
+    opacity: 0;
+    pointer-events: none;
+}
+nav li:hover ul {
+    pointer-events: auto;
+    opacity: 1;
+    box-shadow: 0px 6px 6px 0px rgba(12, 12, 12, 0.3);
+}
+nav li ul li {
+    display: inline-block;
+    margin: 0px 3px;
+}
+iframe {
     max-width: 100%;
     min-width: 100%;
 }
 blockquote {
     font-style: italic;
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #000;
-    --text: #fff;
-  }
 }
