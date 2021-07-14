@@ -23,6 +23,7 @@ Our world presents remarkable opportunities but also formidable challenges. Our 
 Youth Facing Racism addresses America’s longstanding and pervasive struggle with racism. The program invites teens to examine these issues more deeply than they typically experience in school curriculum. Participants come together for a service project completed in a moving environment–at Corhaven Graveyard, a historical burial ground for African-Americans who were enslaved in Shenandoah County, Virginia. (12 SSL credit hours, next session beginning August 16, 2021)
 
 > The strength of this program was how it encouraged students such as myself to take initiative and advocate for social justice campaigns they were passionate about. In addition, students were able to develop necessary argumentative skills and had practical experience working with other teams to come up with a common-ground solution. (Sayeda H., US/Pakistan)
+
 > Very well conducted, with skillful facilitators and carefully planned out lesson materials. (Caedy L., Singapore)
 
 ## [**Youth Facing the Global Refugee and Migration Crisis**](/student-service-learning/youth-facing-the-global-refugee-and-migration-crisis)
@@ -30,6 +31,7 @@ Youth Facing Racism addresses America’s longstanding and pervasive struggle wi
 Our Youth Facing the Global Refugee and Migration Crisis program explores migration patterns that challenge societies around the world. This program weaves together a diplomacy simulation and a student advocacy project, to encourage teens to consider the global origins of refugee and migration patterns as well as the practical human needs of refugees and immigrants. (Eight SSL credit hours, upcoming sessions beginning August 23, 2021 and September 27, 2021)
 
 > By having discussions and making situations that are realistic as if actual ambassadors would encounter, it was a great experience for me to see how actual representatives would act. (Yumin L., South Korea)
+
 > Helps raise awareness on sensitive topics going on in the world, helps prepare people for life lessons, in the sense that we are learning how to advocate. (Nicole K., Kenya)
 
 ## [**Youth Facing the Global Freshwater Crisis**](/student-service-learning/youth-facing-the-global-freshwater-crisis)
@@ -37,6 +39,7 @@ Our Youth Facing the Global Refugee and Migration Crisis program explores migrat
 Our Youth Facing the Global Freshwater Crisis program addresses one of the world’s principal environmental challenges. A diplomacy simulation calls attention to how these issues require collaboration that crosses borders, and a student advocacy project invites participants – in the U.S. and internationally – to think about both global and local aspects of freshwater policy problems. (Eight SSL credit hours, Fall/Winter program dates under consideration)
 
 > The program facilitators were very encouraging and extremely nice. The material used for the program including documents, real-life examples, and sources were very well put together and useful. (Phillipe E., US)
+
 > The many students of international background were the main strength of the program. Each brought a different outlook on the issue and unique solutions. (Maximilian P., US)
 
 **Students.** Our SSL programs are internationally-oriented but open to all students. They are designed for high school students with an international background but welcome students without an international background.

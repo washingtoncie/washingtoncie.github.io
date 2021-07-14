@@ -23,6 +23,9 @@ img, iframe {
     max-width: 100%;
     min-width: 100%;
 }
+blockquote {
+    font-style: italic;
+}
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #000;
