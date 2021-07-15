@@ -3,8 +3,8 @@ layout: default
 permalink: /student-service-learning
 ---
 # Student Service Learning (SSL)
-![Students at Corhaven Graveyard](https://washingtoncie.org/wp-content/uploads/2020/10/students-at-corhaven-1024x768.jpg "students-at-corhaven")
-![WCIE - Website Image - Experiential and Service Learning](http://washingtoncie.org/wp-content/uploads/2019/03/WCIE-Website-Image-Experiential-and-Service-Learning.jpg "WCIE - Website Image - Experiential and Service Learning")
+![Students at Corhaven Graveyard](/assets/images/community-service-and-ssl/students-at-corhaven.jpg "Students at Corhaven Graveyard")
+![WCIE - Website Image - Experiential and Service Learning](/assets/images/community-service-and-ssl/experiential-and-service-learning.jpg "WCIE - Website Image - Experiential and Service Learning")
 
 ## **Community Service and Student Service Learning**
 
@@ -56,11 +56,11 @@ As you think globally and serve locally, we invite you to consider donating hous
 
 ## **Our Community Service Programs: Connecting the Washington, D.C. Area International and Local Communities**
 
-![](https://washingtoncie.org/wp-content/uploads/2020/12/image5.png)WCIE community service programs are organized in collaboration with English Now!, an English school located in Bethesda, Maryland.
+![Door Decorating People](/assets/images/community-service-and-ssl/door-decoration-people.png "Door Decorating People")WCIE community service programs are organized in collaboration with English Now!, an English school located in Bethesda, Maryland.
 
 Since 2015, English Now! students and staff have engaged in community service activities with area non-profit organizations including: The Children’s Inn at the the National Institutes of Health, Bethesda Cares, Bethesda Sunrise Senior Living, and the Betty Ann Krahnke Center. In addition, volunteers have helped welcome newly arrived families when they enroll their children in Montgomery County Public Schools (MCPS) at the [Rocking Horse Road International Admissions and Enrollment Center](https://montgomerycountymd.galaxydigital.com/need/detail/?need_id=434317). Community service programs are offered in Community Service Weeks that take place twice-yearly, and some community service opportunities are available year-round. Community Service Week will be back, as soon as possible given public health considerations.
 
-[![](https://washingtoncie.org/wp-content/uploads/2020/12/image3.png)](https://washingtoncie.org/wp-content/uploads/2020/12/image3.png)
+![Door Decorating](/assets/images/community-service-and-ssl/door-decoration.png "Door Decorating")
 
 Since 2018, WCIE and English Now!, together with the [Montgomery Coalition for Adult English Literacy (MCAEL)](http://mcael.org/), have participated in [Welcoming Week](http://welcomingweek.org/), an effort to welcome immigrants and refugees in communities throughout the United States.
 

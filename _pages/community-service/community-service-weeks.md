@@ -15,4 +15,4 @@ Activities will focus on topics that many people in our school community care de
 - **supporting refugees in our local community;** and
 - **taking action against climate change.**
 **Many, many thanks to the Community Service Week Steering Committee of six students and two English Now!/WCIE colleagues that helped us design this program!** And please let us know if you'd be interested in getting involved in these kinds of activities in the future.
-![](https://lh3.googleusercontent.com/2cSQWTfNXxZ3YNrJY8ZZ-jpRR11w6HAIyp4p_4XjOtH5KxPzfWgmDJjzwD9bQDXZDWOZJH-CYSvNOeumFlN_vzfFzvKS0ZztMfZ4rCKuo9b17PGohw1wmslMlX4wCr-cLbegJwae)
+![Community Service Week calendar](https://lh3.googleusercontent.com/2cSQWTfNXxZ3YNrJY8ZZ-jpRR11w6HAIyp4p_4XjOtH5KxPzfWgmDJjzwD9bQDXZDWOZJH-CYSvNOeumFlN_vzfFzvKS0ZztMfZ4rCKuo9b17PGohw1wmslMlX4wCr-cLbegJwae "Community Service Week calendar")

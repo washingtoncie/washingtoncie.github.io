@@ -4,11 +4,11 @@ permalink: /community-service
 ---
 # Community Service
 **Our Community Service Programs: Connecting the Washington, D.C.-Area International and Local Communities**
-![](https://lh4.googleusercontent.com/rxBGahBtQwlPtznnjpYaU1tXXE7L82BXfkrGJZ_DGNQDoq2RSQjlqtKKZiheIkJE8xdA0zgY-b6kLcV_Eq6hWdK9SNAPavegL4P0gqe40jsYOPTgNcPCG8oCcgkQ28y-G73y7_HP)WCIE community service programs are organized in collaboration with English Now!, an English school located in Bethesda, Maryland.
+![Door Decorating People](/assets/images/community-service-and-ssl/door-decoration-people.png "Door Decorating People") WCIE community service programs are organized in collaboration with English Now!, an English school located in Bethesda, Maryland.
 
 Since 2015, English Now! students and staff have engaged in community service activities with area non-profit organizations including: The Children’s Inn at the the National Institutes of Health, Bethesda Cares, Bethesda Sunrise Senior Living, and the Betty Ann Krahnke Center. In addition, volunteers have helped welcome newly arrived families when they enroll their children in Montgomery County Public Schools (MCPS) at the [Rocking Horse Road International Admissions and Enrollment Center](https://montgomerycountymd.galaxydigital.com/need/detail/?need_id=434317). Community service programs are offered in Community Service Weeks that take place twice-yearly, and some community service opportunities are available year-round.
 
-![](https://lh3.googleusercontent.com/NU0xUkpUTOhAzjhfy6HE703z--bGH8oORmVAdaIJjvaIzJ4hXJHnA0FhRoMzHJa-E1EX_3_77LIYLMt027SGYNlHrBsWbr3uqtR_37TkD1S5l1sWRPOUBRMfmQcCQL4YnM5vE25M)
+![Door Decorating](/assets/images/community-service-and-ssl/door-decoration.png "Door Decorating")
 
 Since 2018, WCIE and English Now!, together with the [Montgomery Coalition for Adult English Literacy (MCAEL)](http://mcael.org/), have participated in [Welcoming Week](http://welcomingweek.org/), an effort to welcome immigrants and refugees in communities throughout the United States.
 
