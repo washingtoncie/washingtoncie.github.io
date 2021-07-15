@@ -26,7 +26,7 @@ This Diplomacy Simulation program includes **two online preparation and negotiat
 -   **Session 1**: Students receive their scenario materials and are divided into stakeholder teams representing the affected countries, the United Nations and a non-governmental refugee rights organization. Teams meet to prepare their negotiating strategies.
 -   **Session 2**:  Students representing their stakeholder teams learn how to prepare, strategize, and negotiate with each other in informal and formal negotiation sessions, with the goal of achieving a diplomatic solution to the immigration and refugee crisis scenario.
 
-![](https://washingtoncie.org/wp-content/uploads/2020/10/diplomacy-2.jpg)
+![Diplomacy Simulation](/assets/images/youth-facing-the-global-refugee-and-migration-crisis/diplomacy-simulation.jpg "Diplomacy Simulation")
 
 **Advocacy service project.** In addition, students will complete an advocacy service project, under the guidance of program facilitators, after the Diplomacy Simulation.
 

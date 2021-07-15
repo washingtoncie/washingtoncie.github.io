@@ -27,7 +27,7 @@ This Diplomacy Simulation program includes **two online preparation and negotiat
 -   **Session 1**: Students receive their scenario materials and are divided into stakeholder teams representing the affected countries, the United Nations and a non-governmental refugee rights organization. Teams meet to prepare their negotiating strategies.
 -   **Session 2**:  Students representing their stakeholder teams learn how to prepare, strategize, and negotiate with each other in informal and formal negotiation sessions, with the goal of achieving a diplomatic solution to freshwater crisis scenario.
 
-**[![](https://washingtoncie.org/wp-content/uploads/2020/12/image6.jpg)](https://washingtoncie.org/wp-content/uploads/2020/12/image6.jpg)Advocacy service project.** In addition, students will complete an advocacy service project, under the guidance of program facilitators, following the conclusion of the Diplomacy Simulation
+![Diplomacy Simulation](/assets/images/youth-facing-the-global-freshwater-crisis/diplomacy-simulation.jpg "Diplomacy Simulation")**Advocacy service project.** In addition, students will complete an advocacy service project, under the guidance of program facilitators, following the conclusion of the Diplomacy Simulation
 
 Students write letters and/or emails advocating action on issues of their choice related to the topics addressed in the Diplomacy Simulation.
 
