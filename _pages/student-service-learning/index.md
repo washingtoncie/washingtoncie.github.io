@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /student-service-learning
+title: Student Service Learning (SSL)
 ---
 # Student Service Learning (SSL)
 ![Students at Corhaven Graveyard](/assets/images/community-service-and-ssl/students-at-corhaven.jpg "Students at Corhaven Graveyard")
