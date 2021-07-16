@@ -1,0 +1,44 @@
+main {
+    background-color: var(--beige);
+    --site-title-height: calc(65px * 12);
+    min-height: var(--site-title-height);
+    padding-top: 75px;
+}
+
+span.site-title {
+    position: absolute;
+    left: 110px;
+    color: var(--turquoise);
+    writing-mode: vertical-rl;
+    font-size: 65px;
+    justify-self: center;
+    height: var(--site-title-height);
+    transform: translateY(-225px);
+}
+
+span.site-title > .line {
+    display: block;
+    text-align: center;
+}
+
+span.site-title > .line:first-child {
+    text-indent: 110px;
+    text-align: start;
+}
+
+span.site-title > .line:nth-child(2) {
+    text-indent: 50px;
+    text-align: start;
+}
+
+span.site-title .emphasized {
+    color: var(--lime);
+    font-style: italic;
+    font-family: serif;
+}
+
+@media only screen and (max-width: 900px) {
+    span.site-title {
+        display: none;
+    }
+}

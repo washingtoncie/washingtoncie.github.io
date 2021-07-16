@@ -2,19 +2,23 @@
     --sans: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, Helvetica, "Helvetica Neue", Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
     --serif: "New York", Charter, Georgia, Cambria, "Times New Roman", Times, serif;
     --mono: San Francisco Mono, Monaco, "Consolas", "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
-    --turqoise: rgb(67, 170, 144);
+    --turquoise: rgb(67, 170, 144);
     --orange: rgb(241, 141, 0);
     --lime: rgb(157, 200, 21);
-    --primary: var(--turqoise);
+    --beige: rgb(255, 249, 226);
+    --gray: rgb(114, 113, 114);
+    --primary: var(--turquoise);
     --secondary: var(--orange);
     --tertiary: var(--lime);
+    --background-color: var(--beige);
+    --text-color: var(--gray);
 }
 *, *::before, *::after {
     box-sizing: border-box;
+    margin: 0px;
 }
 body {
     font-family: var(--serif);
-    padding-bottom: 20px;
     margin: 0px;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -23,12 +27,24 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     color: white;
 }
+h2 {
+    color: var(--turquoise);
+}
+h3 {
+    color: var(--lime);
+}
 a {
     color: var(--tertiary);
+}
+p {
+    color: var(--text-color);
 }
 nav {
     transition: box-shadow 0.3s;
     text-align: center;
+}
+nav img {
+    width: 400px;
 }
 nav ul {
     vertical-align: top;
@@ -81,7 +97,7 @@ blockquote {
     height: var(--banner-height);
     /* Box width is the box + its before width */
     --box-width: 20vw;
-    background-color: black;
+    background-color: var(--turquoise);
     --color-box-width: 20vw;
 }
 #banner > div.img {
@@ -120,7 +136,7 @@ blockquote {
     /* These values are based on the width and height of the banner */
     border-width: calc(var(--banner-height) / 2) calc(var(--color-box-width) / 2);
     border-top-color: var(--orange);
-    border-left-color: var(--turqoise);
+    border-left-color: var(--turquoise);
     border-bottom-color: var(--lime);
 }
 #banner.title {
@@ -135,7 +151,7 @@ blockquote {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: var(--turqoise);
+    background-color: var(--turquoise);
     width: calc(var(--box-width) - var(--color-box-width));
     height: 100%;
 }
