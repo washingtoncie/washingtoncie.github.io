@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /student-service-learning
+title: Student Service Learning (SSL)
 ---
 # Student Service Learning (SSL)
 ![Students at Corhaven Graveyard](https://washingtoncie.org/wp-content/uploads/2020/10/students-at-corhaven-1024x768.jpg "students-at-corhaven")

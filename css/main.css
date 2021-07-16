@@ -1,20 +1,30 @@
 :root {
-  --sans: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, Helvetica, "Helvetica Neue", Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
-  --serif: "New York", Charter, Georgia, Cambria, "Times New Roman", Times, serif;
-  --mono: San Francisco Mono, Monaco, "Consolas", "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
-  --primary: rgb(67, 170, 144);
-  --secondary: rgb(241, 141, 0);
-  --tertiary: rgb(157, 200, 21);
+    --sans: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, Helvetica, "Helvetica Neue", Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+    --serif: "New York", Charter, Georgia, Cambria, "Times New Roman", Times, serif;
+    --mono: San Francisco Mono, Monaco, "Consolas", "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+    --turqoise: rgb(67, 170, 144);
+    --orange: rgb(241, 141, 0);
+    --lime: rgb(157, 200, 21);
+    --primary: var(--turqoise);
+    --secondary: var(--orange);
+    --tertiary: var(--lime);
+}
+*, *::before, *::after {
+    box-sizing: border-box;
 }
 body {
-  font-family: var(--serif);
-  padding-bottom: 20px;
+    font-family: var(--serif);
+    padding-bottom: 20px;
+    margin: 0px;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--sans);
+    font-family: var(--sans);
+}
+h1 {
+    color: white;
 }
 a {
-  color: var(--tertiary);
+    color: var(--tertiary);
 }
 nav {
     transition: box-shadow 0.3s;
@@ -61,4 +71,98 @@ iframe {
 }
 blockquote {
     font-style: italic;
+}
+#banner {
+    /* All widths and heights are based on viewport width, even if they're in % form */
+    /* The banner must be inside a box that is 100vw */
+    position: relative;
+    width: 100%;
+    --banner-height: 37.5vw;
+    height: var(--banner-height);
+    /* Box width is the box + its before width */
+    --box-width: 20vw;
+    background-color: black;
+    --color-box-width: 20vw;
+}
+#banner > div.img {
+    display: block;
+    margin-left: auto;
+    width: calc(calc(100% - var(--box-width)) + calc(var(--color-box-width) / 2));
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+#banner h1 {
+    position: absolute;
+    top: 50%;
+    left: 5vw;
+    transform: translateY(-50%);
+    width: 250px;
+    z-index: 10;
+}
+#color-box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#color-box::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: var(--color-box-width);
+    border-color: transparent;
+    border-style: solid;
+    /* These values are based on the width and height of the banner */
+    border-width: calc(var(--banner-height) / 2) calc(var(--color-box-width) / 2);
+    border-top-color: var(--orange);
+    border-left-color: var(--turqoise);
+    border-bottom-color: var(--lime);
+}
+#banner.title {
+    --box-width: 45%;
+}
+#banner.title #color-box::after {
+    right: calc(100% - var(--box-width));
+    left: unset;
+}
+#banner.title #color-box::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--turqoise);
+    width: calc(var(--box-width) - var(--color-box-width));
+    height: 100%;
+}
+@media only screen and (max-width: 900px) {
+    #banner.title {
+        --box-width: var(--color-box-width);
+    }
+    #banner.title #color-box::after {
+        right: unset;
+        left: 0;
+    }
+    #banner.title #color-box::before {
+        display: none;
+    }
+    #banner h1 {
+        top: unset;
+        bottom: 10%;
+        margin: 0px;
+        transform: unset;
+        left: 15vw;
+        width: 85%;
+        z-index: 10;
+    }
+}
+@media only screen and (max-width: 600px) {
+    #banner {
+        --banner-height: 50vw;
+        --color-box-width: 30vw;
+    }
 }

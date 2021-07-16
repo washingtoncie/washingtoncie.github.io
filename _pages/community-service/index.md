@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /community-service
+title: Community Service
 ---
 # Community Service
 **Our Community Service Programs: Connecting the Washington, D.C.-Area International and Local Communities**

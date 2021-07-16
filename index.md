@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /assets/images/slider/dc-21.jpg
 ---
 # About WCIE
 ## Need to add image slider
