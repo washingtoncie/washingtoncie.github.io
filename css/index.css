@@ -7,7 +7,7 @@ main {
 
 span.site-title {
     position: absolute;
-    left: 110px;
+    left: 10vw;
     color: var(--turquoise);
     writing-mode: vertical-rl;
     font-size: 65px;
