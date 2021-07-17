@@ -31,6 +31,10 @@ span.site-title > .line:nth-child(2) {
     text-align: start;
 }
 
+span.site-title > .line:last-child {
+    text-indent: 110px;
+}
+
 span.site-title .emphasized {
     color: var(--lime);
     font-style: italic;

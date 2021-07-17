@@ -1,0 +1,35 @@
+main {
+    display: grid;
+    width: 100%;
+    grid-template-columns: [callout] 3fr [article] 7fr;
+    grid-auto-flow: row;
+    padding: 40px 50px;
+    gap: 20px 40px;
+}
+
+main > :not(.callout) {
+    grid-column: article / end;
+    overflow: hidden;
+    font-size: 20px;
+    line-height: 1.25;
+    justify-content: end;
+}
+
+main > .callout {
+    grid-column: callout / article;
+    text-align: right;
+    justify-self: right;
+}
+
+@media only screen and (max-width: 900px) {
+    main {
+        grid-auto-flow: column;
+        grid-template-columns: [article] 1fr;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    main {
+        padding: 40px 10px;
+    }
+}
