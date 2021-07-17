@@ -203,7 +203,7 @@ blockquote {
         margin: 0px;
         transform: unset;
         left: 15vw;
-        width: 85%;
+        width: 65%;
         z-index: 10;
     }
 }
@@ -211,5 +211,8 @@ blockquote {
     #banner {
         --banner-height: 50vw;
         --color-box-width: 30vw;
+    }
+    #banner h1 {
+        font-size: 26px;
     }
 }

@@ -18,7 +18,7 @@ h2:not(:first-of-type), img {
 }
 
 /* All images are wrapped in p tags by markdown, so the p will be odd */
-p:nth-of-type(odd) img {
+p:nth-of-type(odd) > img {
     float: right;
     clear: both;
     margin-left: 30px;
@@ -29,14 +29,15 @@ p:nth-of-type(odd) img {
     h2, h2 + p strong, h2 + p em {
         display: block;
         text-align: center;
+        clear: both;
     }
-    img {
+    p > img, p:nth-of-type(odd) > img {
         display: block;
         margin: 0px auto;
         margin-top: 50px;
         float: none;
     }
-    h2 {
+    h2:not(:first-of-type) {
         margin-top: 10px;
     }
 }
