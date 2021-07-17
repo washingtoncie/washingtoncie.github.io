@@ -14,6 +14,7 @@ span.site-title {
     justify-self: center;
     height: var(--site-title-height);
     transform: translateY(-225px);
+    width: auto;
 }
 
 span.site-title > .line {

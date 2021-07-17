@@ -1,8 +1,8 @@
 main {
     display: grid;
     width: 100%;
-    grid-template-columns: [callout] 3fr [article] 7fr;
-    grid-auto-flow: row;
+    grid-template-columns: [callout] 3fr [article] 7fr [end];
+    grid-auto-flow: row dense;
     padding: 40px 50px;
     gap: 20px 40px;
 }
@@ -19,6 +19,11 @@ main > .callout {
     grid-column: callout / article;
     text-align: right;
     justify-self: right;
+    width: 100%;
+}
+
+.callout > * {
+    width: 100%;
 }
 
 @media only screen and (max-width: 900px) {
