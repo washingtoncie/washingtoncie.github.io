@@ -90,6 +90,35 @@ iframe {
 blockquote {
     font-style: italic;
 }
+.inline-main-img {
+    /* Subtract half of right margin */
+    width: calc(50% - 20px);
+    float: left;
+    margin-right: 40px;
+    margin-top: 10px;
+    display: block;
+}
+
+.inline-main-img.right {
+    float: right;
+    margin-left: 40px;
+    margin-right: 0px;
+}
+
+.inline-img {
+    display: inline-block;
+    margin-top: 10px;
+    width: calc(25% - 20px);
+    min-width: 150px;
+}
+.inline-img.right {
+    float: right;
+    margin-left: 40px;
+}
+.inline-img.left {
+    float: left;
+    margin-right: 40px;
+}
 #banner {
     /* All widths and heights are based on viewport width, even if they're in % form */
     /* The banner must be inside a box that is 100vw */
