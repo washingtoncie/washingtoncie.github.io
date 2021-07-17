@@ -1,12 +1,13 @@
 ---
 layout: default
+title: Our Team
 permalink: /our-team
 styles:
 - our-team
 ---
-# Our Team
 ## Meet the Team
 WCIE's team is inspired by a common vision of serving international students, their families, and the educational institutions that serve those students. WCIE's founding team includes the following:
+
 ![Elisa Zhai Autry Picture](/assets/images/our-team/elisa-autry.jpg "Elisa Zhai Autry Picture")
 ## Elisa Zhai Autry
 _**Co-Founder and Member, Board of Governors**_
@@ -21,11 +22,11 @@ Dr. Elisa Zhai Autry is WCIE's co-founder and executive director. She is passion
 Paul Boesen is a WCIE co-founder and serves as Chair of its Board of Governors. He also serves as managing director of WCIE's partner, English Now!, an English language school in Bethesda, Maryland, supporting the development of Community Service and Student Service Learning (SSL) programs that serve the school and broader international community, and also as VP-Administration of GreenPoint Group, a strategic advisory firm that connects people and resources in the United States and China. Paul’s background in education includes experience in general management as well as international program development and administration. Prior to his work in education, Paul worked in investment banking and private equity for the Goldman Sachs Group in New York, Frankfurt, and Singapore; and for the World Economic Forum in Geneva and Beijing. He also served as executive director of the US-China Education Trust; and he serves on the Steering Committee of the One Million Strong Initiative, a Presidential Initiative to promote Chinese language education in American K-12 schools. Paul’s academic background is in economics, Asian studies, and law. He is a graduate of the University of Michigan and Harvard Law School and resides in Falls Church, Virginia, with his wife, Elizabeth, and their three children.
 
 ![Josie Stommel Picture](/assets/images/our-team/josie-stommel.jpg "Josie Stommel Picture")
-
 ## Josie Stommel
 **_Program Manager, Volunteer Coordinator_**
 
 Josie Stommel serves as WCIE's Program Manager & Volunteer Coordinator and is a second year master's student at the University of Maryland's International Education Policy program. Originally from the MD area, she loves to explore new places and has spent time in Spain and Northern Ireland. She pursued her undergraduate studies in Spanish and Interfaith Studies at Elizabethtown College, where she also spent time teaching English in a variety of contexts. Josie speaks English, Spanish, and a tiny bit of Mandarin and Norwegian! In her spare time, Josie enjoys gluten-free baking, playing with her dog, catching up with friends, and writing snail mail letters.
+
 ![Susan Kay Picture](/assets/images/our-team/susan-kay.jpg "Susan Kay Picture")
 ## Susan Kay
 **_Co-Program Director, Youth Facing the Global Refugee & Migration Crisis Program_**
@@ -38,6 +39,7 @@ Susan Kay serves as Co-Program Director of WCIE’s Youth Facing the Global Refu
 **_Program Director, Youth Facing Racism Program_**
 
 Amanda Wilder serves as Program Director of WCIE’s Youth Facing Racism program. Amanda is an educator who has been teaching English since 2008. She loves helping students reach their academic, personal, or professional English language goals. She has enjoyed teaching in a wide variety of settings from elementary schools to universities. Amanda received her M.Ed. in TESOL from the University of Maryland and subsequently taught at the _Maryland English Institute_ there before moving out West to teach at University of Denver's _English Language Center_. Amanda has also completed extensive training in academic coaching and ran a popular coaching program specifically designed for English language learning students at the University of Maryland. As a former professional ballet and modern dancer, and an arts education advocate, Amanda loves to incorporate both visual and performing arts into her teaching to make learning English more fun and accessible.
+
 ![Nancy Wolf Picture](/assets/images/our-team/nancy-wolf.jpg "Nancy Wolf Picture")
 ## Nancy Wolf
 **_Co-Program Director, Youth Facing the Global Refugee & Migration Crisis Program_**

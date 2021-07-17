@@ -2,6 +2,7 @@
 layout: default
 banner-image: /assets/images/slider/dc-21.jpg
 styles:
+    - grid
     - index
 ---
 {::nomarkdown}

@@ -1,3 +1,42 @@
+main {
+    padding: 30px;
+    max-width: 100ch;
+    margin: 0px auto;
+    margin-top: 40px;
+}
+
 p > img {
     width: 150px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+
+h2:not(:first-of-type), img {
+    margin-top: 40px;
+}
+
+/* All images are wrapped in p tags by markdown, so the p will be odd */
+p:nth-of-type(odd) img {
+    float: right;
+    clear: both;
+    margin-left: 30px;
+    margin-right: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+    h2, h2 + p strong, h2 + p em {
+        display: block;
+        text-align: center;
+    }
+    img {
+        display: block;
+        margin: 0px auto;
+        margin-top: 50px;
+        float: none;
+    }
+    h2 {
+        margin-top: 10px;
+    }
 }
