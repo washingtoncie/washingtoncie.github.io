@@ -38,6 +38,7 @@ a {
 }
 p {
     color: var(--text-color);
+    line-height: 1.25;
 }
 nav {
     transition: box-shadow 0.3s;
@@ -45,6 +46,7 @@ nav {
 }
 nav img {
     width: 400px;
+    max-width: 100%;
 }
 nav ul {
     vertical-align: top;
