@@ -41,6 +41,7 @@ p {
     line-height: 1.25;
 }
 nav {
+    position: relative;
     transition: box-shadow 0.3s;
     text-align: center;
 }
@@ -52,6 +53,7 @@ nav ul {
     vertical-align: top;
     list-style-type: none;
     text-align: center;
+    padding-left: 0px;
 }
 nav li {
     position: relative;
@@ -214,5 +216,68 @@ blockquote {
     }
     #banner h1 {
         font-size: 26px;
+    }
+    nav {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-between;
+        align-items: flex-end;
+        gap: 10px;
+        padding: 10px 20px;
+    }
+    nav img {
+        width: 250px;
+    }
+    nav > ul {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        display: flex;
+        flex-flow: column nowrap;
+        align-items: center;
+        gap: 20px;
+        max-height: 0px;
+        transition: max-height 250ms ease-out, padding 250ms ease-out;
+        pointer-events: none;
+        z-index: 20;
+        overflow: hidden;
+        background-color: white;
+        width: 100%;
+        border-radius: 0px 0px 10px 10px;
+    }
+    nav > ul > li {
+        font-size: 18px;
+    }
+    nav ul li ul li {
+        font-size: 14px;
+        margin-bottom: 3px;
+    }
+    nav li ul {
+        position: static;
+        opacity: 1;
+        transition: none;
+        pointer-events: all;
+        border-radius: 0px;
+    }
+    nav li:hover ul {
+        box-shadow: none;
+    }
+    .nav-dropdown-button {
+        height: auto;
+        line-height: 12px;
+        width: 30px;
+        margin-bottom: 5px;
+    }
+    .nav-dropdown-button > span {
+        display: inline-block;
+        height: 2.25px;
+        width: 100%;
+        background-color: var(--text-color);
+    }
+    nav.open > ul {
+        max-height: 500px;
+        pointer-events: all;
+        padding: 20px;
+        box-shadow: 0px 10px 8px 2px rgb(0 0 0 / 15%);
     }
 }
