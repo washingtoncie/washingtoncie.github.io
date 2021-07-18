@@ -5,8 +5,7 @@ title: Community Service
 styles:
     - grid
 ---
-{::options parse_block_html="true" /}
-<section>
+<section markdown="1">
 ## Our Community Service Programs: Connecting the Washington, D.C.-Area International and Local Communities
 WCIE community service programs are organized in collaboration with English Now!, an English school located in Bethesda, Maryland.
 
@@ -14,7 +13,7 @@ Since 2015, English Now! students and staff have engaged in community service ac
 </section>
 ![Door Decorating People](/assets/images/community-service-and-ssl/door-decoration-people.png "Door Decorating People")
 {: .callout}
-<section>
+<section markdown="1">
 Since 2018, WCIE and English Now!, together with the [Montgomery Coalition for Adult English Literacy (MCAEL)](http://mcael.org/), have participated in [Welcoming Week](http://welcomingweek.org/), an effort to welcome immigrants and refugees in communities throughout the United States.
 
 In 2019, WCIE and English Now! participated in a MCAEL project to create symbols of welcoming throughout Montgomery County, Maryland, by creating and decorating a door that expresses a welcoming spirit. Students and staff, along with residents of Bethesda Sunrise Senior Living, painted a door with colorful leaves representing our thriving community of diverse cultures. The door was displayed first at the Connie Morella (Bethesda) Public Library, and now resides at the MCPS International Admissions and Enrollment Center at Rocking Horse Road.

@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /student-service-learning/youth-facing-racism
+title: Youth Facing Racism
 ---
-# Youth Facing Racism
 ## **Youth Facing Racism: Engaging American Experiences of Race, Ethnicity, and Identity**
 ![Corhaven Garden](/assets/images/youth-facing-racism/garden.jpg "Corhaven Garden")**A three-week program for high school students.** This dynamic SSL program for high school students includes online small group discussions as well as a service project completed at Corhaven Graveyard, a historical burial ground for African Americans who were enslaved in Shenandoah County, Virginia. This program consists of three weeks of online discussions, plus a 2/3-day field trip.
 

@@ -7,6 +7,7 @@
     --lime: rgb(157, 200, 21);
     --beige: rgb(255, 249, 226);
     --gray: rgb(114, 113, 114);
+    --dark-gray: rgb(95, 94, 95);
     --primary: var(--turquoise);
     --secondary: var(--orange);
     --tertiary: var(--lime);
@@ -28,11 +29,12 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     color: white;
 }
-h2 {
+h2, h2 a {
     color: var(--turquoise);
 }
 h3 {
     color: var(--lime);
+    margin-top: 20px;
 }
 a {
     color: var(--tertiary);
@@ -43,6 +45,12 @@ p {
 }
 p:not(:last-child) {
     margin-bottom: 10px;
+}
+ul {
+    color: var(--text-color);
+}
+strong {
+    color: var(--dark-gray);
 }
 nav {
     position: relative;
@@ -89,12 +97,54 @@ nav li ul li {
     display: inline-block;
     margin: 0px 3px;
 }
+main {
+    width: 100%;
+    padding: 40px 50px;
+}
 iframe {
     max-width: 100%;
     min-width: 100%;
 }
 blockquote {
+    position: relative;
     font-style: italic;
+    margin-bottom: 10px;
+}
+blockquote:not(.emphasized) {
+    padding-left: 20px;
+}
+blockquote:not(.emphasized)::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3px;
+    height: 100%;
+    background-color: var(--primary);
+}
+blockquote.emphasized {
+    margin-left: 50px;
+    color: var(--tertiary);
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+}
+blockquote.emphasized cite {
+    display: block;
+}
+blockquote.emphasized p::before {
+    content: "\201C";
+    font-family: Georgia, serif;
+    display: inline-block;
+    position: relative;
+    height: 20px;
+    font-size: 80px;
+    left: -20px;
+    top: 30px;
+    color: var(--primary);
+}
+blockquote.emphasized p {
+    color: inherit;
 }
 .inline-main-img {
     /* Subtract half of right margin */
@@ -153,6 +203,7 @@ blockquote {
     transform: translateY(-50%);
     width: 250px;
     z-index: 10;
+    font-size: 42px;
 }
 #color-box {
     position: absolute;
