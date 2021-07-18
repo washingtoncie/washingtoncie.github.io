@@ -97,6 +97,12 @@ nav li ul li {
     display: inline-block;
     margin: 0px 3px;
 }
+nav a {
+    color: var(--text-color);
+}
+nav .active {
+    color: var(--tertiary);
+}
 main {
     width: 100%;
     padding: 40px 50px;
@@ -154,13 +160,11 @@ blockquote.emphasized p {
     margin-top: 10px;
     display: block;
 }
-
 .inline-main-img.right {
     float: right;
     margin-left: 40px;
     margin-right: 0px;
 }
-
 .inline-img {
     display: inline-block;
     margin-top: 10px;
