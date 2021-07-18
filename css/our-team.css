@@ -17,6 +17,10 @@ h2:not(:first-of-type), img {
     margin-top: 40px;
 }
 
+h2:nth-of-type(odd), h2:nth-of-type(odd) + p {
+    text-align: right;
+}
+
 /* All images are wrapped in p tags by markdown, so the p will be odd */
 p:nth-of-type(odd) > img {
     float: right;
@@ -39,5 +43,8 @@ p:nth-of-type(odd) > img {
     }
     h2:not(:first-of-type) {
         margin-top: 10px;
+    }
+    h2:nth-of-type(odd), h2:nth-of-type(odd) + p {
+        text-align: center;
     }
 }
