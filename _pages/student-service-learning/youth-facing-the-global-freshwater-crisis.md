@@ -1,8 +1,12 @@
 ---
 layout: default
 permalink: /student-service-learning/youth-facing-the-global-freshwater-crisis
+title: Youth Facing the Global Freshwater Crisis
+styles:
+    - grid
 ---
-# Youth Facing the Global Freshwater Crisis: A Diplomacy Simulation & Advocacy Program
+<section markdown="1">
+## Youth Facing the Global Freshwater Crisis: A Diplomacy Simulation & Advocacy Program
 
 **_Do you want to learn to negotiate international crises like a diplomat? Do you want to explore how to advocate for action on conservation and the environment in the U.S. and around the world?_**
 
@@ -14,20 +18,21 @@ This program has two components:
 
 **Taken together, this program consists of:** four hours for the Diplomacy Simulation components, plus four hours for the Advocacy Service Project. PLEASE NOTE: this program integrates the Diplomacy Simulation and Advocacy Service Project, and students seeking SSL credit hours must complete the Advocacy Service Project to receive any SSL credit.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/elCEbIbvEjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-_Aaron Salzberg, Special Coordinator for Water Resources. U.S. Department of State._
-
 **Diplomacy simulation.** In two online sessions, students will learn how to negotiate an international freshwater crisis.
 
 Students participate in a Diplomacy Simulation designed by the U.S. Department of State. Students will work in small groups to represent “stakeholders” (e.g. countries, multilateral organizations, NGOs) in a negotiation process.
 
 See [here](https://diplomacy.state.gov/) for information about the U.S. Department of State’s National Museum of American Diplomacy, which has designed and which offers these simulations, and [here for curriculum materials for the Freshwater Crisis Diplomacy Simulation](https://diplomacy.state.gov/discover-diplomacy/about/class-materials/freshwater/) that students will complete in this program.
+</section>
+![Diplomacy Simulation](/assets/images/youth-facing-the-global-freshwater-crisis/diplomacy-simulation.jpg "Diplomacy Simulation")
+{: .callout}
 
+<section markdown="1">
 This Diplomacy Simulation program includes **two online preparation and negotiation Sessions:**
 -   **Session 1**: Students receive their scenario materials and are divided into stakeholder teams representing the affected countries, the United Nations and a non-governmental refugee rights organization. Teams meet to prepare their negotiating strategies.
 -   **Session 2**:  Students representing their stakeholder teams learn how to prepare, strategize, and negotiate with each other in informal and formal negotiation sessions, with the goal of achieving a diplomatic solution to freshwater crisis scenario.
 
-![Diplomacy Simulation](/assets/images/youth-facing-the-global-freshwater-crisis/diplomacy-simulation.jpg "Diplomacy Simulation")**Advocacy service project.** In addition, students will complete an advocacy service project, under the guidance of program facilitators, following the conclusion of the Diplomacy Simulation
+**Advocacy service project.** In addition, students will complete an advocacy service project, under the guidance of program facilitators, following the conclusion of the Diplomacy Simulation
 
 Students write letters and/or emails advocating action on issues of their choice related to the topics addressed in the Diplomacy Simulation.
 
@@ -49,3 +54,10 @@ Under the guidance of the facilitators of the Diplomacy Simulation, students stu
 **Timeline.** Students will be informed if they are accepted to the program and will be provided program materials two weeks prior to the first online session.
 
 **For more information.** [Email us](mailto:communityservice@washingtoncie.org) with questions or if you would like to be informed when applications are accepted for future program offerings.
+</section>
+<div markdown="1">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/elCEbIbvEjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_Aaron Salzberg, Special Coordinator for Water Resources. U.S. Department of State._
+{: style="text-align: center"}
+</div>
+{: .callout}

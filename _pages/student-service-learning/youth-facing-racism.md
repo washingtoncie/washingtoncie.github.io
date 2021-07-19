@@ -2,9 +2,12 @@
 layout: default
 permalink: /student-service-learning/youth-facing-racism
 title: Youth Facing Racism
+styles:
+    - grid
 ---
-## **Youth Facing Racism: Engaging American Experiences of Race, Ethnicity, and Identity**
-![Corhaven Garden](/assets/images/youth-facing-racism/garden.jpg "Corhaven Garden")**A three-week program for high school students.** This dynamic SSL program for high school students includes online small group discussions as well as a service project completed at Corhaven Graveyard, a historical burial ground for African Americans who were enslaved in Shenandoah County, Virginia. This program consists of three weeks of online discussions, plus a 2/3-day field trip.
+<section markdown="1">
+## Youth Facing Racism: Engaging American Experiences of Race, Ethnicity, and Identity
+**A three-week program for high school students.** This dynamic SSL program for high school students includes online small group discussions as well as a service project completed at Corhaven Graveyard, a historical burial ground for African Americans who were enslaved in Shenandoah County, Virginia. This program consists of three weeks of online discussions, plus a 2/3-day field trip.
 
 **Online small group discussions.** Small group discussions – maximum six students – bring students from different high schools together for facilitated conversations regarding race and racism in American society. Students complete short, common readings, listen to podcasts, and review other media, to frame conversations that are held on Zoom.
 
@@ -13,8 +16,12 @@ This program offers a great opportunity for direct and honest conversations abou
 Students in the program come from a range of backgrounds, including many with international perspectives that shed interesting light on these issues. We appreciate a range of social and political views of these issues and the quality of conversations that flows from varied perspectives.
 
 Students consider the historical origins of racism in American society, including the experiences of African Americans and also Americans of Asian, Latin American, and Native American heritage. Conversations address the hope of the civil rights movement as well as the tragedies of police brutality and mass incarceration. Students are invited to consider how their generation’s experiences and views of race are developing and how their generation might address these issues. Students also consider a global perspective on race and racism and what this tells us about America, as well as the world.
+</section>
+![Corhaven Garden](/assets/images/youth-facing-racism/garden.jpg "Corhaven Garden")
+{: .callout}
 
-![Corhaven Graveyard](/assets/images/youth-facing-racism/corhaven-graveyard.jpg "Corhaven Graveyard")**Service learning field trip.** In addition to the conversations described above, the program includes a required service learning field trip to Corhaven Graveyard. Corhaven Graveyard is a historical burial ground for enslaved people. It has been developed as a site of remembrance and reconciliation. Participants in the field trip will complete a volunteer service project to improve the grounds of the graveyard. Participants in the field trip will tour the graveyard, hear the history of slavery in the Shenandoah region of Virginia, engage in reflections regarding the lives of the enslaved people buried there, and complete a service project. For more information see [https://www.corhavengraveyard.org/](https://www.corhavengraveyard.org/).
+<section markdown="1">
+**Service learning field trip.** In addition to the conversations described above, the program includes a required service learning field trip to Corhaven Graveyard. Corhaven Graveyard is a historical burial ground for enslaved people. It has been developed as a site of remembrance and reconciliation. Participants in the field trip will complete a volunteer service project to improve the grounds of the graveyard. Participants in the field trip will tour the graveyard, hear the history of slavery in the Shenandoah region of Virginia, engage in reflections regarding the lives of the enslaved people buried there, and complete a service project. For more information see [https://www.corhavengraveyard.org/](https://www.corhavengraveyard.org/).
 
 NOTE: Students (or their families) will need to provide their own transportation for the field trip program, which takes place in Quicksburg, Virginia, 85 miles west of Washington, D.C. Family members driving students to Corhaven Graveyard will also be invited to tour the graveyard and learn about its history.
 
@@ -29,3 +36,6 @@ The program offers high school students the opportunity to earn 10 SSL credit h
 **Requirements.** Students must be between 15 and 19 years of age. Non-native English speaking students are welcome to join the program but must have English language proficiency at a High Intermediate level or above.
 
 **Timeline.** Students will be informed if they are accepted to the program and will be provided program materials 10 days prior to the first online session.
+</section>
+![Corhaven Graveyard](/assets/images/youth-facing-racism/corhaven-graveyard.jpg "Corhaven Graveyard")
+{: .callout}

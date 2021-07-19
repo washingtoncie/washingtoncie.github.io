@@ -5,6 +5,9 @@ main {
     grid-auto-flow: row dense;
     padding: 40px 50px;
     gap: 20px 40px;
+    max-width: unset;
+    margin: unset;
+    margin-top: unset;
 }
 
 main > :not(.callout) {
