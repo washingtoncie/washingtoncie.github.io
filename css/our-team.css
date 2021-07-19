@@ -13,11 +13,11 @@ p > img {
     margin-bottom: 20px;
 }
 
-h2:not(:first-of-type), img {
+h2:not(:first-of-type), main img {
     margin-top: 40px;
 }
 
-h2:nth-of-type(odd), h2:nth-of-type(odd) + p {
+h2:nth-of-type(odd):not(:first-of-type), h2:nth-of-type(odd):not(:first-of-type) + p {
     text-align: right;
 }
 
@@ -44,7 +44,7 @@ p:nth-of-type(odd) > img {
     h2:not(:first-of-type) {
         margin-top: 10px;
     }
-    h2:nth-of-type(odd), h2:nth-of-type(odd) + p {
+    h2:nth-of-type(odd):not(:first-of-type), h2:nth-of-type(odd):not(:first-of-type) + p {
         text-align: center;
     }
 }

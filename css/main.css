@@ -24,13 +24,17 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--sans);
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+    margin-top: 20px;
 }
 h1 {
     color: white;
 }
 h2, h2 a {
     color: var(--turquoise);
+}
+h2:first-child, h3:first-child {
+    margin-top: 0px;
 }
 h3 {
     color: var(--lime);
@@ -42,12 +46,14 @@ a {
 p {
     color: var(--text-color);
     line-height: 1.25;
+    font-size: 20px;
 }
 p:not(:last-child) {
     margin-bottom: 10px;
 }
 ul {
     color: var(--text-color);
+    margin-bottom: 10px;
 }
 strong {
     color: var(--dark-gray);
@@ -56,6 +62,7 @@ nav {
     position: relative;
     transition: box-shadow 0.3s;
     text-align: center;
+    padding: 10px;
 }
 nav img {
     width: 400px;
@@ -66,6 +73,7 @@ nav ul {
     list-style-type: none;
     text-align: center;
     padding-left: 0px;
+    margin-top: 10px;
 }
 nav li {
     position: relative;
@@ -95,17 +103,21 @@ nav li:hover ul {
 }
 nav li ul li {
     display: inline-block;
-    margin: 0px 3px;
+    margin: 10px 3px;
 }
 nav a {
     color: var(--text-color);
+    text-decoration: none;
+    font-size: 18px;
 }
 nav .active {
     color: var(--tertiary);
 }
 main {
     width: 100%;
-    padding: 40px 50px;
+    padding: 40px 30px;
+    max-width: 100ch;
+    margin: 0px auto;
 }
 iframe {
     max-width: 100%;
@@ -303,6 +315,7 @@ blockquote.emphasized p {
         background-color: white;
         width: 100%;
         border-radius: 0px 0px 10px 10px;
+        margin-top: 0px;
     }
     nav > ul > li {
         font-size: 18px;
@@ -310,6 +323,7 @@ blockquote.emphasized p {
     nav ul li ul li {
         font-size: 14px;
         margin-bottom: 3px;
+        margin-top: 0px;
     }
     nav li ul {
         position: static;

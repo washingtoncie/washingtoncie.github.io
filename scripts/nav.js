@@ -7,7 +7,8 @@ navDropdownButton.addEventListener('click', function() {
 // Go through all the nav items; if the nav item is currently active give it the .active class to highlight it
 var navItems = document.querySelectorAll('nav a');
 for (i = 0; i < navItems.length; i++) {
-    if (navItems[i].href.endsWith(window.location.pathname)) {
+    var match = navItems[i].href.match(new RegExp('\\w+\\/([\\/\\w-]+)'));
+    if (match && window.location.pathname.includes(match[1])) {
         navItems[i].className = 'active';
     }
 }

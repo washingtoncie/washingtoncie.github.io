@@ -1,8 +1,12 @@
 ---
 layout: default
 permalink: /student-service-learning/youth-facing-the-global-refugee-and-migration-crisis
+title: Youth Facing the Global Refugee and Migration Crisis
+styles:
+    - grid
 ---
-# Youth Facing the Global Refugee and Migration Crisis: A Diplomacy Simulation & Advocacy Program
+<section markdown="1">
+## Youth Facing the Global Refugee and Migration Crisis: A Diplomacy Simulation & Advocacy Program
 
 **_Do you want to learn to negotiate international crises like a diplomat? Do you want to explore how to advocate for migration and refugee policies in the U.S. and around the world?_**
 
@@ -14,19 +18,19 @@ This program has two components:
 
 **Taken together, this program consists of:** four hours for the Diplomacy Simulation components, plus four hours for the Advocacy Service Project.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-gspBB0GDnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 **Diplomacy simulation.** In two online sessions, students will learn how to negotiate an international migration crisis involving refugee rights and border security.
 
 Students participate in a Diplomacy Simulation designed by the U.S. Department of State. Students will work in small groups to represent “stakeholders” (e.g. countries, multilateral organizations, NGOs) in a negotiation process.
 
 See [here](https://diplomacy.state.gov/) for information about the U.S. Department of State’s National Museum of American Diplomacy, which has designed and which offers these simulations, and [here](https://diplomacy.state.gov/discover-diplomacy/about/class-materials/migration/) for information about the simulation that students will complete in this program.
+</section>
+![Diplomacy Simulation](/assets/images/youth-facing-the-global-refugee-and-migration-crisis/diplomacy-simulation.jpg "Diplomacy Simulation")
+{: .callout}
 
+<section markdown="1">
 This Diplomacy Simulation program includes **two online preparation and negotiation Sessions:**
 -   **Session 1**: Students receive their scenario materials and are divided into stakeholder teams representing the affected countries, the United Nations and a non-governmental refugee rights organization. Teams meet to prepare their negotiating strategies.
 -   **Session 2**:  Students representing their stakeholder teams learn how to prepare, strategize, and negotiate with each other in informal and formal negotiation sessions, with the goal of achieving a diplomatic solution to the immigration and refugee crisis scenario.
-
-![Diplomacy Simulation](/assets/images/youth-facing-the-global-refugee-and-migration-crisis/diplomacy-simulation.jpg "Diplomacy Simulation")
 
 **Advocacy service project.** In addition, students will complete an advocacy service project, under the guidance of program facilitators, after the Diplomacy Simulation.
 
@@ -50,3 +54,10 @@ Under the guidance of the facilitators of the Diplomacy Simulation, students stu
 **Timeline.** Students will be informed if they are accepted to the program and will be provided program materials two weeks prior to the first online session.
 
 **For more information.** [Email us](mailto:communityservice@washingtoncie.org) with questions or if you would like to be informed when applications are accepted for future program offerings.
+</section>
+<div markdown="1">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gspBB0GDnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_Cheryl Harris, Public Diplomacy and Public Affairs Advisor. Bureau of Populations, Refugees and Migration._
+{: style="text-align: center"}
+</div>
+{: .callout}
