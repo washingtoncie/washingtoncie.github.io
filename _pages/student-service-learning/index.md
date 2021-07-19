@@ -31,7 +31,7 @@ Youth Facing Racism addresses America’s longstanding and pervasive struggle wi
 > The strength of this program was how it encouraged students such as myself to take initiative and advocate for social justice campaigns they were passionate about. In addition, students were able to develop necessary argumentative skills and had practical experience working with other teams to come up with a common-ground solution. <cite>&mdash; Sayeda H., US/Pakistan</cite>
 {: .emphasized .callout}
 <section markdown="1">
-### [Youth Facing the Global Refugee and Migration Crisis](/student-service-learning/youth-facing-the-global-refugee-and-migration-crisis)
+### [Youth Facing the Global Refugee and Migration Crisis](/student-service-learning/youth-facing-the-global-refugee-and-migration-crisis "Youth Facing the Global Refugee and Migration Crisis")
 
 Our Youth Facing the Global Refugee and Migration Crisis program explores migration patterns that challenge societies around the world. This program weaves together a diplomacy simulation and a student advocacy project, to encourage teens to consider the global origins of refugee and migration patterns as well as the practical human needs of refugees and immigrants. (Eight SSL credit hours, upcoming sessions beginning August 23, 2021 and September 27, 2021)
 
@@ -41,7 +41,7 @@ Our Youth Facing the Global Refugee and Migration Crisis program explores migrat
 </section>
 <div class="callout"></div>
 <section markdown="1">
-### [Youth Facing the Global Freshwater Crisis](/student-service-learning/youth-facing-the-global-freshwater-crisis)
+### [Youth Facing the Global Freshwater Crisis](/student-service-learning/youth-facing-the-global-freshwater-crisis "Youth Facing the Global Freshwater Crisis")
 
 Our Youth Facing the Global Freshwater Crisis program addresses one of the world’s principal environmental challenges. A diplomacy simulation calls attention to how these issues require collaboration that crosses borders, and a student advocacy project invites participants – in the U.S. and internationally – to think about both global and local aspects of freshwater policy problems. (Eight SSL credit hours, Fall/Winter program dates under consideration)
 
@@ -54,11 +54,11 @@ Our Youth Facing the Global Freshwater Crisis program addresses one of the world
 
 **Certification.** All WCIE SSL programs are designed to qualify for [SSL credit by the Montgomery County Public Schools](https://montgomerycountymd.galaxydigital.com/agency/detail/?agency_id=92808). Students in other public schools or in private schools may also be eligible for community service or SSL hour credit. Ask your school’s community service or SSL coordinator if your school will recognize these programs for SSL or community service credit hours.
 
-## [Community Service Week](https://washingtoncie.org/community-service-and-ssl/community-service-week/)
+## [Community Service Week](/community-service/community-service-weeks "Community Service Week")
 
 For the last five years, we have offered two Community Service Weeks a year in the spring and fall in partnership with English Now! Community Service Weeks offer many options to participate in small group community service activities. We are excited to announce that our Spring 2021 Community Service Week will take place from April 9th-17th, 2021, with a bonus event on the 22nd; our Fall 2021 Community Service Week will occur September 10th-19th. Join us to think globally, and serve locally!
 
-## [Food & Household Goods Drive](https://washingtoncie.org/community-service-and-ssl/food-household-goods-drive/)
+## Food & Household Goods Drive
 
 As you think globally and serve locally, we invite you to consider donating household goods, non perishable food items, school supplies, gently used clothing and more! During our Spring 2021 Community Service Week we will be collecting donations for September House MAJ, Identity Inc., and Bethesda Cares.
 </section>
