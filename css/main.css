@@ -196,7 +196,7 @@ blockquote.emphasized p {
     /* The banner must be inside a box that is 100vw */
     position: relative;
     width: 100%;
-    --banner-height: 37.5vw;
+    --banner-height: 31.25vw;
     height: var(--banner-height);
     /* Box width is the box + its before width */
     --box-width: 20vw;

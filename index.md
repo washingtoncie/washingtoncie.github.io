@@ -13,7 +13,7 @@ styles:
 
 We all need to come together to address the world’s most pressing challenges. WCIE programs address tough topics like [racism](/student-service-learning/youth-facing-racism), the [global migration and refugee crisis](/student-service-learning/youth-facing-the-global-refugee-and-migration-crisis), and [conservation and the environment](/student-service-learning/youth-facing-the-global-freshwater-crisis). We take a holistic approach to intellectual, social, and emotional growth. We serve the student, and we hope to reach students’ families as well.
 
-The Washington, D.C. area offers us unique learning resources. Building on these resources, we design [monthly programs](http://english-now.com/images/activities/calendars/2021/july2021activities.jpg) that offer eye-opening experiences and celebrate cross-cultural team building. And we delight in connecting the international community to local programs and experiences.
+The Washington, D.C. area offers us unique learning resources. Building on these resources, we [explore diplomacy](/exploring-diplomacy) and offer opportunities for [community service](/community-service). We delight in connecting the international community to local programs and experiences.
 
 We are grateful for the students and families that join our programs; the facilitators and administrative team that bring our small group experiences to life; and to our many partners - particularly [English Now!](http://english-now.com/), the Bethesda, Maryland-based language school whose community inspires ours, as well as Montgomery County, Maryland, and the Montgomery County Public Schools, which [certify our Student Service Learning programs](https://montgomerycountymd.galaxydigital.com/agency/detail/?agency_id=92808).
 
