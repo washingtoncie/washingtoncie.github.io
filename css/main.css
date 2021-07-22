@@ -144,7 +144,7 @@ blockquote.emphasized {
     margin-left: 50px;
     color: var(--tertiary);
     font-weight: bold;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Georgia, Times, 'Times New Roman', serif;
     font-size: 24px;
 }
 blockquote.emphasized cite {
