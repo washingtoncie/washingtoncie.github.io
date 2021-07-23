@@ -1,8 +1,16 @@
 ---
 layout: default
-banner-image: /assets/images/slider/dc-21.jpg
+banner-images:
+    - /assets/images/slider/dc-21.jpg
+    - /assets/images/slider/microsoft-group.jpeg
+    - /assets/images/slider/seminar.jpeg
+    - /assets/images/slider/diplomacy-simulation-group-photo.jpeg
 styles:
     - grid
+    - index
+scripts:
+    - jquery
+    - unslider
     - index
 ---
 {::nomarkdown}

@@ -2,5 +2,15 @@
     <div id="color-box">
         <h1>{{ page.title }}</h1>
     </div>
-    <div class="img" style="background-image: url('{{ page.banner-image }}');" alt="Banner Image"></div>
+    {% if page.banner-image %}
+        <div class="img" style="background-image: url('{{ page.banner-image }}');" alt="Banner Image"></div>
+    {% elsif page.banner-images %}
+        <div class="img" alt="Banner Image">
+            <ul class="img-list">
+                {% for image in page.banner-images %}
+                    <li style="background-image: url('{{ image }}');"></li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
 </div>
