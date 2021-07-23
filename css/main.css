@@ -83,7 +83,7 @@ nav li {
 }
 nav li ul {
     position: absolute;
-    z-index: 5;
+    z-index: 11;
     text-align: center;
     top: 100%;
     left: 0;
