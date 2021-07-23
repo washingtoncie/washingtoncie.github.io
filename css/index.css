@@ -15,6 +15,7 @@ span.site-title {
     height: var(--site-title-height);
     transform: translateY(-150px);
     width: auto;
+    z-index: 10;
 }
 
 span.site-title > .line {

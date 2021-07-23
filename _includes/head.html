@@ -6,3 +6,6 @@
     <link rel="stylesheet" href="/css/{{ stylesheet }}.css">
 {% endfor %}
 <script src="/scripts/nav.js" defer></script>
+{% for script in page.scripts %}
+    <script src="/scripts/{{ script }}.js" defer></script>
+{% endfor %}
