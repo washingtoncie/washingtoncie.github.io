@@ -13,7 +13,7 @@ span.site-title {
     font-size: 65px;
     justify-self: center;
     height: var(--site-title-height);
-    transform: translateY(-150px);
+    /* transform: translateY(-150px); */
     width: auto;
     z-index: 10;
 }
