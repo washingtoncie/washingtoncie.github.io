@@ -3,20 +3,27 @@ layout: default
 permalink: /community-service/community-service-weeks
 title: Community Service Weeks
 styles:
-    - grid
+- grid
 ---
 <section markdown="1">
 ## Join Our "Community Service Week" Activities. Think Globally, Serve Locally!
 
-We have offered Community Service Weeks twice a year, in partnership with English Now!, since 2016. Community Service Weeks offer many options to participate in small group community service activities. Our Spring 2021 Community Service Week took place April 12-22; and our Fall 2021 Community Service Week will take place September 10-19.
+**The Washington Center for International Education (WCIE)**, a Washington, D.C.-based non-profit 501(c)(3) organization, is happy to announce Community Service Week--a week to bring us together for engaging programs serving our community--September 10-19, 2021. WCIE organizes community service programs in collaboration with **English Now!**, an English school located in Bethesda, Maryland. English Now! will serve as the co-sponsor of Community Service Week.
 
-We organize Community Service Week activities to connect the international and the local communities - and to inspire us all. In addition many activities are online so accessible to everyone, around the world. See the flyer from Spring 2021 for information about the kinds of programs we organize.
+WCIE and English Now! have organized Community Service Weeks twice a year since 2016. Our goals for this effort are to connect the area's international and local communities, inspire community engagement, and mobilize volunteers to support local organizations doing great work in the community.
 
-Activities focus on topics that many people in our school community care deeply about, such as helping neighbors in need with a food and household goods collection, fighting racism, supporting refugees in our local community, and taking action against climate change.
+This September's Community Service Week activities will focus on three areas:
 
-In Fall 2021, save the dates for a Community Service Fair & Ice Cream Social on Friday, September 17; and an International Walk & Talk Against Racism, on Saturday, September 18. Watch this space or [contact us](mailto:communityservice@washingtoncie.org) for more information or to get involved.
+* helping neighbors in need through a food and household goods drive,
+* fighting racism, and
+* serving refugee families as they arrive in the area.
 
-**Many, many thanks to the Community Service Week Steering Committee that helps us design and offer this program!** We are grateful to Marlene Da Vargem, Sally Dai, Anna Hauache, Michael Kranefeld, Wendy Morris, Kanako Nakai, Josie Stommel, and Efrem Tilahun for getting involved amidst a global pandemic in Spring 2021, and to Carmen Ayala, Linda Chang, Marlene Da Vargem, Sally Dai, Anna Hauache, Michael Kranefeld, Claudia Mansmann, Kanako Nakai, for their planning and preparation for Fall 2021. Please let us know if you’d be interested in getting involved in these kinds of activities in the future.
+WCIE and English Now! are pleased to partner with local organizations including MCAEL, the International Rescue Committee (IRC), Community Reach of Montgomery County, Identity, Inc., September House MAJ, THIS for Diplomats, the Connie Morella (Bethesda) Library, and more for Community Service Week. WCIE and English Now! are happy that Community Service Week coincides with this fall's **Welcoming Week**.
+
+**GET INVOLVED.** We invite you to learn more about community service and connect with others at a **COMMUNITY SERVICE FAIR & ICE CREAM SOCIAL**, on Friday, September 17, 4:00-6:00pm, at the Caroline Freeland Urban Park, 7200 Arlington Rd, Bethesda, MD 20814. Learn about organizations doing great work in the community and enjoy some ice cream. Open to all-international and local residents of the area, and bring friends and family. We hope to see you there!
+
+**THANK YOU. Many, many thanks to the Community Service Week Steering Committee that helps us design and offer this program!** We are grateful to Carmen Ayala, Paul Boesen, Linda Chang, Marlene Da Vargem, Sally Dai, Anna Hauache, Michael Kranefeld, Wendy Morris, Claudia Mansmann, Kanako Nakai, Michelle Nogueira, and Sara Tadiwos, for their planning and preparation for Fall 2021. Please let us know if you’d be interested in getting involved in these kinds of activities in the future.
+
+For more information about WCIE, see [here](/). For more information about English Now!, see [here](http://english-now.com). To learn more about Community Service Week, [contact us](/contact)!
+We look forward to meeting you – and invite you to get involved as a participant or volunteer!
 </section>
-[![Community Service Week calendar](https://lh3.googleusercontent.com/2cSQWTfNXxZ3YNrJY8ZZ-jpRR11w6HAIyp4p_4XjOtH5KxPzfWgmDJjzwD9bQDXZDWOZJH-CYSvNOeumFlN_vzfFzvKS0ZztMfZ4rCKuo9b17PGohw1wmslMlX4wCr-cLbegJwae "Community Service Week calendar")](https://lh3.googleusercontent.com/2cSQWTfNXxZ3YNrJY8ZZ-jpRR11w6HAIyp4p_4XjOtH5KxPzfWgmDJjzwD9bQDXZDWOZJH-CYSvNOeumFlN_vzfFzvKS0ZztMfZ4rCKuo9b17PGohw1wmslMlX4wCr-cLbegJwae)
-{: .callout}
