@@ -66,10 +66,3 @@ Amanda Wilder serves as Program Director of WCIE’s Youth Facing Racism program
 **_Program Director_**
 
 Nancy L. Wolf serves as Co-Program Director of WCIE’s Youth Facing the Global Refugee and Migration Crisis program and as an English Language Instructor at English Now! Nancy is an international educator with a background in international relations and the law. After growing up in Fairfield, Connecticut, Nancy went to Smith College where she majored in Latin American Studies and then to The Fletcher School of Law and Diplomacy (Tufts University) to get her Masters Degree. Not content with two degrees, Nancy then went to law school at George Washington University to obtain her J.D. and spent many years as a lawyer with and partner at two D.C. firms where she specialized in communications law. After leaving the law, Nancy returned to her first love – the classroom. She’s taught ESL at the Washington English Center since 2017 and received her TEFL Certificate from Georgetown University. When not preparing lesson plans, Nancy reads and writes, loyally attends meetings of her book club and writers group and watches British crime series on Netflix. Nancy met her husband, Jim Pavle, on the first day of graduate school. He is a native speaker of Macedonian , and Nancy knows a few choice words in that language. Nancy and Jim have lived in Chevy Chase, Maryland for over 35 years; they have two adult children, two brilliant grandchildren, and a very special, 14-year-old three-legged rescue dog named Howie.
-
-![Megan Boesen Picture](/assets/images/team/megan-boesen.jpg "Megan Boesen Picture")
-
-## Megan Boesen
-**_Program Coordinator_**
-
-Megan Boesen is our Program Coordinator and also helps with our social media - particularly Instagram. Megan recently graduated from George Mason High School in Falls Church, Virginia, where she has grown up and is a student at Wheaton College, in Chicago, Illinois. Megan hopes to study abroad during college and plans to major in sociology and Spanish. In her free time, Megan loves to cook, read, and spend time outdoors!
