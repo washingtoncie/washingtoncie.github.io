@@ -3,7 +3,7 @@ layout: default
 permalink: /student-service-learning
 title: Student Service Learning (SSL)
 styles:
-    - grid
+- grid
 ---
 <section markdown="1">
 ## Community Service and Student Service Learning
@@ -24,7 +24,7 @@ Our world presents remarkable opportunities but also formidable challenges. Our 
 
 ### [Youth Facing Racism](/student-service-learning/youth-facing-racism "Youth Facing Racism")
 
-Youth Facing Racism addresses America’s longstanding and pervasive struggle with racism. The program invites teens to examine these issues more deeply than they typically experience in school curriculum. Participants come together for a service project completed in a moving environment–at Corhaven Graveyard, a historical burial ground for African-Americans who were enslaved in Shenandoah County, Virginia. (12 SSL credit hours, next session beginning August 16, 2021)
+Youth Facing Racism addresses America’s longstanding and pervasive struggle with racism. The program invites teens to examine these issues more deeply than they typically experience in school curriculum. Participants come together for a service project completed in a moving environment–at Corhaven Graveyard, a historical burial ground for African-Americans who were enslaved in Shenandoah County, Virginia. (12 SSL credit hours, next session beginning during the week of September 20, 2021)
 
 > Very well conducted, with skillful facilitators and carefully planned out lesson materials. (Caedy L., Singapore)
 </section>
@@ -33,7 +33,7 @@ Youth Facing Racism addresses America’s longstanding and pervasive struggle wi
 <section markdown="1">
 ### [Youth Facing the Global Refugee and Migration Crisis](/student-service-learning/youth-facing-the-global-refugee-and-migration-crisis "Youth Facing the Global Refugee and Migration Crisis")
 
-Our Youth Facing the Global Refugee and Migration Crisis program explores migration patterns that challenge societies around the world. This program weaves together a diplomacy simulation and a student advocacy project, to encourage teens to consider the global origins of refugee and migration patterns as well as the practical human needs of refugees and immigrants. (Eight SSL credit hours, upcoming sessions beginning August 23, 2021 and September 27, 2021)
+Our Youth Facing the Global Refugee and Migration Crisis program explores migration patterns that challenge societies around the world. This program weaves together a diplomacy simulation and a student advocacy project, to encourage teens to consider the global origins of refugee and migration patterns as well as the practical human needs of refugees and immigrants. (Eight SSL credit hours, upcoming session beginning September 27, 2021, and additional dates to be announced.)
 
 > Helps raise awareness on sensitive topics going on in the world, helps prepare people for life lessons, in the sense that we are learning how to advocate. (Nicole K., Kenya)
 
