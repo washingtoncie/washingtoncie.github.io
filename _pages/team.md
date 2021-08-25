@@ -27,6 +27,20 @@ Paul Boesen is a WCIE co-founder and serves as Chair of its Board of Governors. 
 
 Linda Chang has always enjoyed getting to know people from around the world, learning languages and customs, and helping others learn them. Along with teaching at WCIE’s partner English Now!, she serves as coordinator of our Community Service Week Steering Committee. After completing a Master’s in Latin American Studies, she lived in Brazil for there years, teaching English, then working in the travel industry (and briefly studying Japanese). She returned to the U.S. to complete a Ph.D. in Portuguese and Spanish, teaching languages and culture classes at Indiana University, Louisiana State University, and Ohio State University. After moving with her family to Maryland, Linda completed a law degree at Georgetown, and then practiced international trade law for 13 years, including work on NAFTA and WTO cases. In 2005, she moved to China where she combined legal work for a U.S. law firm with some unique volunteer English teaching opportunities. Shortly after returning to the U.S. in 2008, she retired from law and had more time for adult life-skill ESOL classes, most recently for MCPS staff, with CASA de Maryland, and at English Now! She has a special interest in work-related English, and in finding ways to provide students with the particular English language skills they need to achieve their goals. In her spare time, she enjoys reading, hiking, and spoiling a D.C.-based grandbaby.
 
+![Linda Doornbosch Picture](/assets/images/team/linda-doornbosch.jpg)
+## Linda Doornbosch
+**_Program Director_**
+
+Linda Doornbosch is a Ph. D. candidate at the University of Twente (The Netherlands) and has a background in the field of communication and education. Her current work focuses on the role of dialogue in creating bridging social capital - which fosters social cohesion and inclusion - in an increasingly polarized society.
+
+Linda has a passion for people and a strong belief that training and facilitating individuals and groups - with various backgrounds, values and identities - to constructively communicate and collaborate across differences, contributes to better organizations and communities.
+
+With more than twelve years of experience as a senior lecturer and project leader of the new curriculum of the Department of Communication & Journalism at the University of Applied Sciences in Ede (which is ranked first in The Netherlands), Linda has a broad experience and deep understanding how to translate knowledge into practice, and to achieve (educational) goals. She managed to successfully use a collaborative approach to develop a strong, coherent, and interdisciplinary connected curriculum. After her recent move to the Caribbean, she now works for the Department of Quality Assurance of the University of Curaçao.
+
+Linda is a certified dialogue facilitator of Essential Partners and speaks English, Dutch, and French fluently.
+
+Linda holds a master’s degree in Communication from the University of Groningen (The Netherlands) and is a certified Teacher of Higher Vocational Education.
+
 ![Amy Hansberger Picture](/assets/images/team/amy-hansberger.jpg "Amy Hansberger Picture")
 ## Amy Hansberger
 **_Program Director_**
