@@ -14,11 +14,11 @@ WCIE and English Now! have organized Community Service Weeks twice a year since 
 
 This September's Community Service Week activities will focus on three areas:
 
-* helping neighbors in need through a <a href="/community-service/household-goods-and-food-drive">food and household goods drive</a>,
-* <a href="/community-service/walk-and-talk-against-racism">fighting racism</a>, and
-* <a href="/community-service/refugee-resettlement">serving refugee families</a> as they arrive in the area.
+* helping neighbors in need through a [food and household goods drive](/community-service/household-goods-and-food-drive),
+* [fighting racism](/community-service/walk-and-talk-against-racism), and
+* [serving refugee families](/community-service/refugee-resettlement) as they arrive in the area.
 
-WCIE and English Now! are pleased to partner with local organizations including MCAEL, the International Rescue Committee (IRC), Community Reach of Montgomery County, Identity, Inc., September House MAJ, THIS for Diplomats, the Connie Morella (Bethesda) Library, and more for Community Service Week. WCIE and English Now! are happy that Community Service Week coincides with this fall's <a href="/initiatives/welcoming-week/">**Welcoming Week**</a>.
+WCIE and English Now! are pleased to partner with local organizations including MCAEL, the International Rescue Committee (IRC), Community Reach of Montgomery County, Identity, Inc., September House MAJ, THIS for Diplomats, the Connie Morella (Bethesda) Library, and more for Community Service Week. WCIE and English Now! are happy that Community Service Week coincides with this fall's [**Welcoming Week**](https://welcomingamerica.org/initiatives/welcoming-week/).
 
 **GET INVOLVED.** We invite you to learn more about community service and connect with others at a **COMMUNITY SERVICE FAIR & ICE CREAM SOCIAL**, on Friday, September 17, 4:00-6:00pm, at the Caroline Freeland Urban Park, 7200 Arlington Rd, Bethesda, MD 20814. Learn about organizations doing great work in the community and enjoy some ice cream. Open to all-international and local residents of the area, and bring friends and family. We hope to see you there!
 
@@ -29,5 +29,5 @@ We look forward to meeting you – and invite you to get involved as a participa
 </section>
 <div class="callout" markdown="1">
 ![Community Service Week Flyer](/assets/images/community-service-week/community-service-week-flyer.jpg "Community Service Week Flyer")
-<p class="caption">Download the Fall 2021 CSW calendar <a href="/assets/files/community-service/community-service-week-flyer.pdf">here</a>.</p>
+<p class="caption" markdown="1">Download the Fall 2021 CSW calendar [here](/assets/files/community-service/community-service-week-flyer.pdf).</p>
 <div>
