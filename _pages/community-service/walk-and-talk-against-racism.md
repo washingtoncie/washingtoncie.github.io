@@ -18,7 +18,7 @@ We will lament the history and present day of racism; and we will talk about how
 
 ### About the Fall 2021 Walk & Talk:
 
-- Date - Saturday, September 18, 2021
+- Date - Saturday, September 25, 2021
 - Time - 10:00am-12:00pm
 - Meeting Point - base of the Washington Monument
 - Recommended Parking - Washington Monument Parking, 1540 Maine Ave SW, Washington, DC 20024
