@@ -6,13 +6,16 @@ styles:
 - grid
 ---
 <section markdown="1">
+
 ## Household Goods & Food Drive
 
-We collect items for donation to neighbors in need twice a year as part of our Community Service Weeks. Your donations will be distributed through:
+We collect items for donation to neighbors in need twice a year as part of our Community Service Weeks. Your donations in Fall 2021 were distributed through:
 
 - the International Rescue Committee's [Welcome Home program](https://www.rescue.org/volunteer/refugee-welcome-home-project-volunteer) (we are organizing groups to furnish apartments for newly-arrived refugee families - learn more about this program and let us know if you'd like to join (or co-lead!) a group);
 - Identity, Inc., a great, Rockville-based organization that creates opportunities for Latino and other historically underserved youth to realize their highest potential and thrive; and
 - September House MAJ, a local organization that provides support for everyday life for Japanese people living in the Mid-Atlantic region.
+
+See below for a list of household goods and furniture items that our donation drive focused on in Fall 2021. Our Community Service Week Steering Committee is setting priorities for Spring 2022. Watch this page for more information, and thank you for your support of our past, present, and future efforts to help neighbors in need.
 
 ### Donations of the following items would be appreciated:
 
@@ -66,3 +69,6 @@ And we invite you to learn more about co-sponsors of Community Service Week, the
 Please join us to THINK GLOBALLY, SERVE LOCALLY. We're very grateful for your help!
 {: style="text-align: center;"}
 </section>
+
+![Donation Drive 2021](/assets/images/community-service-week/donation-drive-2021.jpg "Donation Drive 2021")
+{: .callout}

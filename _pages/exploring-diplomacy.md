@@ -6,7 +6,9 @@ styles:
     - grid
 ---
 <section markdown="1">
+
 ## Programs
+
 Join us to explore the world of diplomacy in Washington, D.C.'s international community. Develop cross-cultural negotiation and teambuilding skills. Our programs use [simulations](https://diplomacy.state.gov/education/about/class-materials) developed by the State Department's [“National Museum of American Diplomacy](https://diplomacy.state.gov/) to help participants develop high-level, real-life communications skills and engage some of the world's most pressing issues. In simulations, small groups of two to four students represent a "stakeholder" in multiple rounds of negotiations. Stakeholders include NGOs, national governments, multilateral organizations, United Nations representatives, and non-state actors.
 
 WCIE Exploring Diplomacy programs also engage the Washington, D.C. international community directly. Participants have opportunities to meet with diplomats and NGO professionals, offering students insight into how diplomacy and international affairs really work.
@@ -26,7 +28,11 @@ Our programs also offer an unusual opportunity for American and international st
 
 ### For More Information
 
-Programs are hosted by WCIE partner [English Now!](http://english-now.com/) in Bethesda, Maryland, held at the Department of State, or many are held online. For more information and to register, [email us](mailto:communityservice@washingtoncie.org) or ask at English Now!
+Prep sessions for programs are held online or are hosted by WCIE partner [English Now](http://english-now.com/)! in Bethesda, Maryland, and diplomacy simulations are held at the U.S. Department of State’s National Museum of American Diplomacy.
+
+We will announce dates for new programs as soon as the Department of State restarts in-person simulations. For more information and to stay informed about dates for new program offerings, [email us](mailto:communityservice@washingtoncie.org) or ask at English Now!
+
 </section>
+
 ![Diplomacy Simulation](/assets/images/exploring-diplomacy/diplomacy-simulation-2.jpg "Diplomacy Simulation")
 {: .callout}
