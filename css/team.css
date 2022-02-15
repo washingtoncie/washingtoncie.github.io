@@ -13,6 +13,11 @@ p > img {
     margin-bottom: 20px;
 }
 
+main h1 {
+    color: var(--turquoise);
+    font-size: 1.5em;
+}
+
 h2:not(:first-of-type), main img {
     margin-top: 40px;
 }
