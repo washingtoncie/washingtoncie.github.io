@@ -17,7 +17,7 @@ The Washington, D.C. area is a popular destination for many refugees because of 
 
 We are organizing an event, “Welcoming Refugees from Afghanistan & Ukraine,” at the Connie Morella (Bethesda) Library on Monday, May 9. We are grateful to our speakers, Mikhail Basyuk, who will share a Ukrainian-Russian's perspective--a personal story of coming to the U.S.; and Sarwar Azizi, who served as a senior official in Afghanistan's Central Bank and Ministry of Education and previously with the United Nations, and who will speak about his family's experience as well as how we can understand the needs of Afghan evacuees settling in the area and around the country. We will also hear from a representative of the International Rescue Committee (IRC).
 
-Please [email us](mailto:communityservice@washingtoncie.org) for more information about this program and to be put on a mailing list for information about future programs.
+Please register for this public program [here](https://www.eventbrite.com/e/welcoming-refugees-from-afghanistan-ukraine-registration-313660927277){:target="_blank"} or [email us](mailto:communityservice@washingtoncie.org) for more information and to be put on a mailing list for information about future programs.
 
 ### Support for IRC Programs
 
