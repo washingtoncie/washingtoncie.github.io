@@ -34,3 +34,7 @@ Watch here for more information about activities for this and future Community S
 **Questions?** For more information about WCIE, see [here](/). For more information about English Now!, see [here](http://english-now.com/). To learn more about Community Service Week, [contact us](/contact)! We look forward to meeting you--and invite you to get involved as a participant or volunteer!
 
 </section>
+
+<p class="callout">
+    <a href="/assets/files/community-service/community-service-week-flyer-spring-2022.pdf" target="_blank"><img src="/assets/files/community-service/community-service-week-flyer-spring-2022.jpg" alt="WCIE-English Now! Community Service Week Flyer Spring 2022"></a>
+</p>
