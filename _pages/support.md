@@ -9,11 +9,9 @@ We thank you for your interest in the Washington Center for International Educat
 
 Some of our activities and programs require volunteer support. Please let us know if you may be interested in supporting one of our programs (for students, parents, or educators), and we will be glad to update you about current and future events. (NOTE: Volunteers in some community service programs that involve direct engagement with youth require a background check, and those volunteers must also provide references.)
 
-## Program Support
+## Community Service Program Support
 
-We are always hoping to find support for programs that will extend our impact in the Mid-Atlantic region and beyond. The issues we address are of crucial importance to primary and secondary schools and higher education, as well as to the students and families we serve.
-
-We invite you to consider supporting programs including our Student Service Learning programs, Community Service Weeks, and programs serving refugees being resettled in the area.
+We invite you to consider supporting our Community Service Week activities. Our programs bring the international and local communities and connect people to the community. Support our first-ever GoFundMe, for our Spring 2022 Community Service Week! Click [here](https://gofund.me/57e80621){:target="_blank"}, learn more about how we're bringing people together, and help us do this and more!
 
 ## ESOL Scholarship Support
 
