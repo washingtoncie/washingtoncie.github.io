@@ -23,6 +23,8 @@ Our Fall 2021 walk followed a slightly different path, starting at the base of t
 
 Our Community Service Week Steering Committee is considering how to take International Walk & Talk Against Racism programs forward in 2022. If you’d like to participate or if you have ideas, please contact us.
 
+**Other programs**. WCIE and English Now! continue to focus on issues related to race and racism. One new development in 2022: a “teach-in” on the occasion of the Juneteenth holiday brought a group of educators, international friends, and visiting State Department [Young Leaders of the Americas Initiative](https://ylai.state.gov/) Fellows together for a meaningful conversation about the history of Juneteenth and its role reminding us of the ongoing challenge of racism in American life. We appreciate the many perspectives on race and racism shared at that event, which remind us of the opportunity to learn by listening, in a diverse environment. See the photo to the left, and join us for this program next year.
+
 **FOR HIGH SCHOOL STUDENTS:** We also invite teens to consider joining our **Youth Facing Racism Student Service Learning Program.** This dynamic WCIE SSL program includes online discussions as well as a service project at [Corhaven Graveyard](http://www.corhavengraveyard.org/), a historical burial ground for African-Americans who were enslaved in Shenandoah County, Virginia. Program information [here](https://washingtoncie.org/community-service-and-ssl/).
 
 Join us to think globally and engage locally, including on the toughest issues of our times.
@@ -32,6 +34,8 @@ Join us to think globally and engage locally, including on the toughest issues o
 ![Walk and talk poster](/assets/images/walk-and-talk-against-racism/walk-and-talk-poster.png "Walk and talk poster")
 {: style="margin-bottom: 10px;"}
 ![MLK memorial quote](/assets/images/walk-and-talk-against-racism/mlk-memorial-quote.png "MLK memorial quote")
+{: style="margin-bottom: 10px;"}
+![YLAI](/assets/images/community-service-and-ssl/ylai.jpg)
 {: style="margin-bottom: 10px;"}
 ![African American history museum](/assets/images/walk-and-talk-against-racism/african-american-history-museum.png "African American History Museum")
 </div>
