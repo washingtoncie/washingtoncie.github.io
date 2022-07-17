@@ -29,7 +29,7 @@ WCIE has been sponsoring enrollments of recently-resettled refugees in our partn
 
 We see a dramatic need for English language learning support on the part of Afghan evacuees as well as other IRC clients – and an opportunity to deliver programs targeting specific audiences that are not reached by other providers. With that, WCIE is now offering classes that target specific audiences that are not reached by other providers.
 
-See [here](/esol-programs-for-refugees) for information about WCIE’s ESOL programs for refugees and how to support this effort.
+See [here](/community-service/refugee-resettlement/esol-programs-for-refugees) for information about WCIE’s ESOL programs for refugees and how to support this effort.
 
 ### Student Service Learning
 
