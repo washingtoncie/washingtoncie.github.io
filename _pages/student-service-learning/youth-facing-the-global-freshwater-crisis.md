@@ -45,7 +45,7 @@ Under the guidance of the facilitators of the Diplomacy Simulation, students stu
 
 **SSL credit hours.** The program offers high school students the opportunity to earn SSL credit hours through WCIE. The program is designed to satisfy the SSL requirements of the Montgomery County Public Schools (MCPS). If you are enrolled at another public or private school in the U.S., or elsewhere around the world, ask your counselor if this program satisfies community service requirements.
 
-**Program dates.** Fall/Winter 2021 program dates under consideration.
+**Program dates.** We will announce dates for new programs as soon as the Department of State restarts in-person simulations. For more information and to stay informed about dates for new program offerings, [email us](mailto:communityservice@washingtoncie.org) or ask at English Now!
 
 **To register.** Students interested in this program must complete an [online registration form](https://englishnoww.wufoo.com/forms/english-now-registration-form/). Students will also need to provide a short personal statement (two to four paragraphs) explaining why they want to take part in this program and what they hope to learn from their participation. Please [email the personal statement to us](mailto:communityservice@washingtoncie.org). Your personal statement should include the name of your school and grade level.
 
