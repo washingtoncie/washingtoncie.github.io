@@ -38,6 +38,8 @@ Students write letters and/or emails advocating action on issues of their choice
 
 Under the guidance of the facilitators of the Diplomacy Simulation, students study how advocacy and letter-writing campaigns work. They engage in research on an issue of concern to them, review templates of effective advocacy communications, and finally, draft, edit, and send their letters to elected representatives and/or to the governmental or non-governmental organizations of their choice.
 
+<strong>Additional direct service.</strong> WCIE is pleased to organize and support a broad range of activities related to [refugee resettlement](/community-service/refugee-resettlement). We encourage students to consider not only education and advocacy related to refugee and migration issues but also direct service – volunteering through partner organizations such as the [International Rescue Committee](https://www.rescue.org/volunteer-opportunities/silver-spring-md) or [Homes Not Borders](https://www.homesnotborders.org/volunteer/) in Maryland, [Welcoming Falls Church](http://welcomingfallschurch.org/initiatives/welcoming-refugees) in Virginia – or [for WCIE](https://washingtoncie.org/support) ourselves to help us organize more great programs. For students seeking service hour opportunities, any direct service hours are in addition to the typical service hours awarded through this program.
+
 **Schedule and Times** (Total: Eight Hours**)**
 -   **One hour of at-home review** of preparation materials on the diplomatic process prior to the first online session. At-home review of materials includes completing readings, watching videos, and preparing a description of their stakeholder’s position regarding the simulation.
 -   **Two 1.5-hour online participatory diplomacy simulation sessions**, scheduled in the late afternoon.
@@ -45,7 +47,7 @@ Under the guidance of the facilitators of the Diplomacy Simulation, students stu
 
 **SSL credit hours.** The program offers high school students the opportunity to earn SSL credit hours through WCIE. The program is designed to satisfy the SSL requirements of the Montgomery County Public Schools (MCPS). If you are enrolled at another public or private school in the U.S., or elsewhere around the world, ask your counselor if this program satisfies community service requirements.
 
-**Program dates.** Upcoming session beginning on September 27, 2021. Additional program dates to be announced.
+**Program dates.** We will announce dates for new programs as soon as the Department of State restarts in-person simulations. For more information and to stay informed about dates for new program offerings, [email us](mailto:communityservice@washingtoncie.org) or ask at English Now!
 
 **To register.** Students interested in this program must complete an [online registration form](https://englishnoww.wufoo.com/forms/english-now-registration-form/). Students will also need to provide a short personal statement (two to four paragraphs) explaining why they want to take part in this program and what they hope to learn from their participation. Please submit your personal statement [by email](mailto:communityservice@washingtoncie.org).
 
