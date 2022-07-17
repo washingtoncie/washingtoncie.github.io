@@ -22,15 +22,6 @@ Our Spring 2022 Community Service Week offered many opportunities to get engaged
 - [sort donated household goods and furniture](https://www.signupgenius.com/go/70a0f44acaf2fa5f58-donation);
 - volunteer to [serve children](https://www.signupgenius.com/go/70a0f44acaf2fa5f58-little) in a downtown D.C. playground day; and
 - learn more about and [serve refugee families](/community-service/refugee-resettlement) as they arrive in the area.
-
-</section>
-
-<p class="callout">
-    <a href="/assets/files/community-service/community-service-week-flyer-spring-2022.pdf" target="_blank"><img src="/assets/files/community-service/community-service-week-flyer-spring-2022.jpg" alt="WCIE-English Now! Community Service Week Flyer Spring 2022"></a>
-</p>
-
-<section markdown="1">
-
 We are especially excited to extend an invitation to join us at a **Welcoming Refugees Community Service Fair at Caroline Freeland Urban Park, 7200 Arlington Road, Bethesda, MD 20814**, on Friday, September 17, 2:00-5:00pm. This event will be featured as part of [Welcoming Week](https://welcomingamerica.org/initiatives/welcoming-week), a nationwide initiative that encourages communities to be more welcoming -- and will encourage us all to <u>connect</u>, and not to focus on divisions. Montgomery County has declared itself a "welcoming county" as part of the "[Welcoming America](https://welcomingamerica.org/)" initiative, and we’re glad to be a part of the area’s welcoming efforts. Join us to think globally, serve locally, and build community!
 
 Watch here for more information about activities for this and future Community Service Weeks, and we invite you to get involved!
@@ -43,5 +34,10 @@ Watch here for more information about activities for this and future Community S
 
 **Questions?** For more information about WCIE, see [here](/). For more information about English Now!, see [here](http://english-now.com/). To learn more about Community Service Week, [contact us](/contact)! We look forward to meeting you--and invite you to get involved as a participant or volunteer!
 </section>
+<div class="callout" markdown=1>
+<p>
+    <a href="/assets/files/community-service/community-service-week-flyer-spring-2022.pdf" target="_blank"><img src="/assets/files/community-service/community-service-week-flyer-spring-2022.jpg" alt="WCIE-English Now! Community Service Week Flyer Spring 2022"></a>
+</p>
+{: style="margin-bottom: 650px;"}
 ![Community service week team](/assets/images/community-service-week/team.jpg)
-{: .callout}
+</div>

@@ -34,6 +34,10 @@ main > .callout {
         grid-auto-flow: column;
         grid-template-columns: [article] 1fr;
     }
+
+    .callout p {
+        margin-bottom: 10px !important;
+    }
 }
 
 @media only screen and (max-width: 600px) {
