@@ -9,9 +9,9 @@ styles:
 
 ## Household Goods & Furniture Drive
 
-We collect items for donation to neighbors in need twice a year as part of our Community Service Weeks. Your donations in Spring 2022 are being distributed through  [Homes Nor Borders](https://www.homesnotborders.org/), a great, local organization that works with partner organizations like ours to furnish apartments for newly-arrived refugee families.
+We collect items for donation to neighbors in need twice a year as part of our Community Service Weeks. Our Donation Drives started in Fall 2021, as we collected donations to furnish three apartments (see our flyer!). In Spring 2022, contributions were distributed through  [Homes Nor Borders](https://www.homesnotborders.org/), a great, local organization that works with partner organizations like ours to furnish apartments for newly-arrived refugee families.
 
-The list of items below responds to Homes Not Borders’s needs to restock their warehouse in suburban Maryland. You’ll see that they don’t need everything – but we appreciate your donations of items that align with these specific needs.
+The list of items below responded to Homes Not Borders’s needs to restock their warehouse in suburban Maryland as of Spring 2022. We look forward to another donation drive for Fall 2022. Watch here for information about the needs we’ll address together, partner organizations, and how to get involved! You’ll see that they don’t need everything – but we appreciate your donations of items that align with these specific needs.
 
 ### Donations of the following items would be appreciated:
 
@@ -31,14 +31,14 @@ The list of items below responds to Homes Not Borders’s needs to restock their
 
 ### Where to Donate
 
-Collection boxes will be placed on the curbside at the following addresses, daily, from 8 am to 8 pm, from April 20-May 1:
+Collection boxes were placed on the curbside at the following addresses, daily, from 8 am to 8 pm, from April 20-May 1:
 
 - 8509 Howell Rd - Bethesda - MD - 20817
 - 5803 Tudor Ln - Rockville - MD - 20852
 - 605 Fulton Ave - Falls Church - VA - 22046
 - 6901 Winterberry Lane - Bethesda - Maryland - 20817
 
-In addition, you may drop donations at English Now!, 4963 Elm Street, Suite 300, Bethesda, MD 20814, any day Monday through Friday, at between 9am and 1pm.
+In addition, donors dropped donations at English Now!, 4963 Elm Street, Suite 300, Bethesda, MD 20814, any day Monday through Friday, at between 9am and 1pm.
 
 ## For More Information & an Invitation to Learn More
 
