@@ -15,9 +15,9 @@ Refugees are people whose lives have been upended by war, conflict and natural d
 
 The Washington, D.C. area is a popular destination for many refugees because of the connection that some refugees have with the federal government, family ties, and a strong labor market generally. WCIE organizes community learning events to help like-minded people and organizations understand how to resettle refugees well, in this area.
 
-We are organizing an event, “Welcoming Refugees from Afghanistan & Ukraine,” at the Connie Morella (Bethesda) Library on Monday, May 9. We are grateful to our speakers, Mikhail Basyuk, who will share a Ukrainian-Russian's perspective--a personal story of coming to the U.S.; and Sarwar Azizi, who served as a senior official in Afghanistan's Central Bank and Ministry of Education and previously with the United Nations, and who will speak about his family's experience as well as how we can understand the needs of Afghan evacuees settling in the area and around the country. We will also hear from a representative of the International Rescue Committee (IRC).
+Our most recent community learning program was an event, “Welcoming Refugees from Afghanistan & Ukraine,” at the Connie Morella (Bethesda) Library on May 9, soon after our Spring 2022 Community Service Week. We are grateful to our speakers, Mikhail Basyuk, who shared a Ukrainian-Russian’s perspective–a personal story of coming to the U.S.; and Sarwar Azizi, who served as a senior official in Afghanistan’s Central Bank and Ministry of Education and previously with the United Nations, and who spoke about his family’s experience as well as how we can understand the needs of Afghan evacuees settling in the area and around the country. We also heard from Kyle Monsees, the International Rescue Committee (IRC)’s Volunteer & Family Mentor Coordinator, about how people can get involved locally in the important work of refugee resettlement.
 
-Please register for this public program [here](https://www.eventbrite.com/e/welcoming-refugees-from-afghanistan-ukraine-registration-313660927277){:target="_blank"} or [email us](mailto:communityservice@washingtoncie.org) for more information and to be put on a mailing list for information about future programs.
+You can see information about this public program [here](https://www.eventbrite.com/e/welcoming-refugees-from-afghanistan-ukraine-registration-313660927277). Please [email us](mailto:communityservice@washingtoncie.org) for information about future programs–starting with our **Welcoming Refugees Community Service Fair at Caroline Freeland Urban Park, 7200 Arlington Road, Bethesda, MD 20814**, on Friday, September 17, 2:00-5:00pm. This event will bring together eight to 10 organizations and feature a storytelling program where we can hear the stories of refugees – both recently resettled and here for some time – as we come together to consider thinking globally, serving locally, and getting involved in these issues in our community.
 
 ### Support for IRC Programs
 
@@ -25,9 +25,11 @@ Our efforts in this area start with partnerships. We are delighted to support th
 
 ### ESOL Studies
 
-WCIE also sponsors enrollments of recently-resettled refugees in our partner [English Now!](http://english-now.com/)’s English classes. English language studies are important to refugees’ transition to life in the U.S. English Now!’s group classes are small–six students maximum in-person, four students maximum online–and taught by experienced professionals, making them an unusually personalized way to care for refugees.
+WCIE has been sponsoring enrollments of recently-resettled refugees in our partner English Now!’s English classes since Fall 2020. English language studies are important to refugees’ transition to life in the U.S. [English Now!](http://english-now.com)’s group classes are small–six students maximum in-person, four students maximum online–and taught by experienced professionals, making them an unusually personalized way to care for refugees.
 
-We are sponsoring four English Now! group classes for refugees resettled in the area, and we would like to organize more to respond to considerable needs for English language on the part of Afghan evacuees as well as other IRC clients. Please consider donating to support these classes–see [here](/support) for information about how to support this effort.
+We see a dramatic need for English language learning support on the part of Afghan evacuees as well as other IRC clients – and an opportunity to deliver programs targeting specific audiences that are not reached by other providers. With that, WCIE is now offering classes that target specific audiences that are not reached by other providers.
+
+See [here](/esol-programs-for-refugees) for information about WCIE’s ESOL programs for refugees and how to support this effort.
 
 ### Student Service Learning
 
@@ -38,5 +40,8 @@ Finally, we are inspired by our work with high school students, and we hope that
 
 </section>
 
+<div class="callout" markdown="1">
+![Invite 2022](/assets/images/refugee-resettlement/invite-2022.jpg)
+{: style="margin-bottom: 10px;"}
 ![International Rescue Committee Logo](/assets/images/refugee-resettlement/irc.png "International Rescue Committee Logo")
-{: .callout}
+</div>
