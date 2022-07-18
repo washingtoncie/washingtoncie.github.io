@@ -9,7 +9,7 @@ title: ESOL Programs for Refugees
 
 WCIE ESOL programs for refugees enroll students in small group classes. Classes are taught online, in recognition of our experience that transportation and logistical constraints make an online program more practical and more effective than in-person group classes.
 
-WCIE sees a broad range of needs but is focusing on three ESOL programs for refugees:
+**WCIE sees a broad range of needs but is focusing on three ESOL programs for refugees**:
 
 ### PROGRAM FOR WOMEN JUDGES FROM AFGHANISTAN
 
