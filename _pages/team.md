@@ -43,7 +43,15 @@ Anna Green serves as WCIE’s Director of Academic Advising and as an English La
 
 Robina Mohibzada is a WCIE Student Advisor working with Dari- and Pashto-speaking students. Robina was trained as a teacher, graduating from Sayed Jamaluddin Teacher Training College in Afghanistan. She served as an English Teacher, Parents Relation Officer, and administrative officer at Afghanistan International School. Later, she also worked with the United States Agency for International Development (USAID) Promote Project, on programs related to women empowerment, education, and gender equality. Robina was studying for a Bachelor’s degree in Business Administration when she was evacuated from Afghanistan to the U.S. in Summer 2021. She speaks Dari, Pashto, Urdo, Hindi, and English, and she is passionate about pursuing further higher education to advance in her career. Robina is interested in having more friends from around the world and learning about various cultures, and she enjoys being helpful to others. In her spare time, she enjoys hiking, fitness, swimming, sightseeing, traveling, cooking, watching movies, and spending time with family and friends.
 
-# Student Service Learning Programs
+# ESOL and Student Service Learning Programs
+
+![Margaret Whitman Blair](/assets/images/team/margaret-whitman-blair.jpg)
+
+## Margaret Whitman Blair
+
+**_Program Director_**
+
+Margaret Whitman Blair ("Peggy") has been a journalist as well as an author, and she has taught English as a foreign language in Japan and with the Peace Corps in Thailand. Her novels include a series of Civil War time-travel books: Brothers at War, House of Spies, and The Sand Castle. She also writes history books for The National Geographic including The Roaring 20: The First Cross-Country Air Race for Women which received the 2007 Peace Corps Writers Award for Best Children's Writing. Currently in the works are a black history book and a novel set in colonial Williamsburg. For the past decade, she has taught a workshop in Writing the Historical Novel at The Writer's Center in Bethesda, Maryland, and has lectured on the subject for Smithsonian Associates. She is active in The Children's Book Guild of Washington, DC. Peggy received both her B.A. as well as her M.A. in International Relations from American University.
 
 ![Linda Chang Picture](/assets/images/team/linda-chang.jpg "Linda Chang Picture")
 
@@ -52,22 +60,6 @@ Robina Mohibzada is a WCIE Student Advisor working with Dari- and Pashto-speakin
 **_Program Director_**
 
 Linda Chang has always enjoyed getting to know people from around the world, learning languages and customs, and helping others learn them. After completing a Master’s in Latin American Studies, she lived in Brazil for there years, teaching English, then working in the travel industry (and briefly studying Japanese). She returned to the U.S. to complete a Ph.D. in Portuguese and Spanish, teaching languages and culture classes at Indiana University, Louisiana State University, and Ohio State University. After moving with her family to Maryland, Linda completed a law degree at Georgetown, and then practiced international trade law for 13 years, including work on NAFTA and WTO cases. In 2005, she moved to China where she combined legal work for a U.S. law firm with some unique volunteer English teaching opportunities. Shortly after returning to the U.S. in 2008, she retired from law and had more time for adult life-skill ESOL classes, most recently for MCPS staff, with CASA de Maryland, and at English Now! She has a special interest in work-related English, and in finding ways to provide students with the particular English language skills they need to achieve their goals. In her spare time, she enjoys reading, hiking, and spoiling a D.C.-based grandbaby.
-
-![Linda Doornbosch Picture](/assets/images/team/linda-doornbosch.jpg)
-
-## Linda Doornbosch
-
-**_Program Director_**
-
-Linda Doornbosch is a Ph. D. candidate at the University of Twente (The Netherlands) and has a background in the field of communication and education. Her current work focuses on the role of dialogue in creating bridging social capital - which fosters social cohesion and inclusion - in an increasingly polarized society.
-
-Linda has a passion for people and a strong belief that training and facilitating individuals and groups - with various backgrounds, values and identities - to constructively communicate and collaborate across differences, contributes to better organizations and communities.
-
-With more than twelve years of experience as a senior lecturer and project leader of the new curriculum of the Department of Communication & Journalism at the University of Applied Sciences in Ede (which is ranked first in The Netherlands), Linda has a broad experience and deep understanding how to translate knowledge into practice, and to achieve (educational) goals. She managed to successfully use a collaborative approach to develop a strong, coherent, and interdisciplinary connected curriculum. After her recent move to the Caribbean, she now works for the Department of Quality Assurance of the University of Curaçao.
-
-Linda is a certified dialogue facilitator of Essential Partners and speaks English, Dutch, and French fluently.
-
-Linda holds a master’s degree in Communication from the University of Groningen (The Netherlands) and is a certified Teacher of Higher Vocational Education.
 
 ![Amy Hansberger Picture](/assets/images/team/amy-hansberger.jpg "Amy Hansberger Picture")
 
@@ -84,6 +76,22 @@ Amy Hansberger is an experienced educator who has been working with high school-
 **_Program Director_**
 
 Susan Kay serves as Co-Program Director of WCIE’s Youth Facing the Global Refugee and Migration Crisis program, as an English Language Instructor at English Now!, and also teaches at American University and Montgomery College. Susan's path to the field of international education began when she was an attorney for the Legal Aid Society in New York City for a largely immigrant population in need of representation and assistance navigating the complicated legal system. When she first moved to Washington, D.C., she worked as an attorney for the Federal Election Commission monitoring the public funding of Presidential campaigns, but later decided to focus again on helping people conquer language barriers. She volunteered at the Washington English Center, where she taught students from countries all over the world who were trying to obtain U.S. citizenship. After returning to school and completing Georgetown University's TEFL program, she taught students in a private language school and at the Arlington County Public Schools' REEP program for adult immigrants. Susan has a B.A. from Barnard College, Columbia University and a J.D. from the George Washington University Law School. She lives in Washington, D.C. with her husband and two sons.
+
+![Linda La Pierre Picture](/assets/images/team/linda-la-pierre.jpg)
+
+## Linda La Pierre
+
+**_Program Director_**
+
+Linda La Pierre is an educator and artist with more than 20 years of experience teaching English to adults from all over the world. She has worked in a variety of educational settings both here and abroad, including college-level Intensive English Programs, a community ESL program for adult immigrants, and a private language school where she taught ESL to the spouses of foreign diplomats. Linda studied Community Service Education and Applied Linguistics at the graduate level at Cornell University, and completed a Bachelor's Degree in Spanish at Emmanuel College in Boston. In addition to Spanish, she has studied French, Polish, Serbo-Croatian, and Portuguese; she has lived and worked in France, Serbia, Poland, and Spain. Previous work experience has also included positions in the fields of media production and community outreach. As a painter, Linda has worked in dry pastel, watercolor, and acrylic. She is currently experimenting with stop-action animation using a digital camera and personal computer. Linda lives with her family in Northern Virginia.
+
+![Cristina Rendueles-Stern Picture](/assets/images/team/cristina-rendueles-stern.jpg)
+
+## Cristina Rendueles-Stern
+
+**_Program Director_**
+
+Cristina Rendueles-Stern was born in New York City and has had a rich and varied life. She lived as a young child in Manila, the Philippines; moved to Washington D.C., where she attended elementary school; and returned to New York City for high school and undergraduate studies at Marymount Manhattan College. Next was Madrid, Spain, where she taught English as a Foreign Language at the Casa Americana, before returning to the U.S. 11 years later to study at the Graduate School of Education at the University of Pennsylvania. After receiving her M.A. in Education, Cristina settled in Washington D.C., where she taught ESOL in the D.C. Public School System. Soon after this she took a teaching position for Montgomery County Public Schools, where she taught ESOL for 20 years. Cristina retired from MCPS in 2011 and has taught English in private settings for many years. Cristina has been married for 20 years and lives with her husband, stepson, two dogs, and three cats in Montgomery Village.
 
 ![Amanda Wilder Picture](/assets/images/team/amanda-wilder.jpg "Amanda Wilder Picture")
 
