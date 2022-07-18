@@ -15,12 +15,12 @@ WCIE sees a broad range of needs but is focusing on three ESOL programs for refu
 
 WCIE is working with the International Association of Women Judges (IAWJ) on behalf of their Afghanistan chapter, to design and deliver an ESOL program to 30 female judges who are refugees. This program will serve 11 Afghani women jurists who are already in the U.S. and 19 who are overseas. Classes in this program will be taught in small groups of four students maximum, following the personalized model that we have seen work so well with other refugee audiences.
 
-**Background**. Female judges made up about 10% of the sitting judges in Afghanistan. Contrary to what one might expect, they were often assigned the most difficult cases in the country–cases that involved corruption, terrorism, domestic violence, narcotics and
+**Background**. Prior to August 2021, female judges made up about 10% of the sitting judges in Afghanistan. Contrary to what one might expect, they were often assigned the most difficult cases in the country–cases that involved corruption, terrorism, domestic violence, narcotics and
 related matters.
 
-Court cases were televised in Afghanistan. Many judges are known by name and appearance. Once the Taliban took power in August 2021, Afghanistan’s female judges immediately lost their jobs. They were threatened and went into hiding. Some, with the support of the IAWJ, fled the country.
+Court cases were televised in Afghanistan. Many judges are known by name and appearance. Once the Taliban took power, Afghanistan’s female judges immediately lost their jobs. They were threatened and went into hiding. Some, with the support of the IAWJ, fled the country.
 
-**The program**. IAWJ has asked us to offer a program to 11 judges from their Afghanistan chapter who are already in the U.S. and 19 of whom are still overseas. IAWJ’s ultimate goal is to support the transition of these remarkable women to work in the United States, if possible in legal support related positions. Some may even eventually be sponsored for studies in LL.M. programs–but sustained English language studies come first for all of them.
+**The program**. IAWJ has asked us to offer a program to 11 judges from their Afghanistan chapter who are already in the U.S. and 19 of whom are still overseas. IAWJ’s ultimate goal is to support the transition of these remarkable women to work in the United States, if possible in legal support related positions. Some may even eventually be sponsored for studies in LL.M. programs–but sustained English language studies come first for all of them. This program will be taught online, to reach students who are currently overseas - and to be offered continually, as they make their way through the resettlement process.
 
 **Support**. We invite you to support a program focusing on the needs of these students. Your support will enable us to offer small group classes to these 30 judges – including the 19 who are still overseas. 17 of the judges currently reside in a detention camp in Dubai known as “Humanitarian City” as of July 2022, but we understand that we can reach students there with a small group class model even before they arrive in the U.S.
 
@@ -39,6 +39,8 @@ WCIE’s model for this class is innovative. Students all meet 1:1 with an Acade
 One group of four students has been studying twice per week since January of this year. They are making great progress! They have shown great improvement in their conversational English and have bonded as a class. This class is a wonderful opportunity for them to meet and build a sense of community while they develop their English skills.
 
 In June of 2022, we started a second group of four students, also at the low beginner level. These students are already showing promising improvement and dedication to their English-learning goals.
+
+This program is taught online, so that is accessible to students who do not have easy access to transportation and who have child care constraints.
 
 **Support**. We invite you to [support](/support) our First Steps in English program. We know through our contacts with the IRC and others caring for refugees that the need for this type of program is dramatic. Most students with this profile have difficulty attending community-based ESOL programs because of family obligations, making the First Steps in English online program the best way they can avoid isolation in their new communities.
 
