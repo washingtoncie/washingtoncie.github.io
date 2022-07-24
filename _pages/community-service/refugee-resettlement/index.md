@@ -17,7 +17,7 @@ The Washington, D.C. area is a popular destination for many refugees because of 
 
 Our most recent community learning program was an event, “Welcoming Refugees from Afghanistan & Ukraine,” at the Connie Morella (Bethesda) Library on May 9, soon after our Spring 2022 Community Service Week. We are grateful to our speakers, Mikhail Basyuk, who shared a Ukrainian-Russian’s perspective–a personal story of coming to the U.S.; and Sarwar Azizi, who served as a senior official in Afghanistan’s Central Bank and Ministry of Education and previously with the United Nations, and who spoke about his family’s experience as well as how we can understand the needs of Afghan evacuees settling in the area and around the country. We also heard from Kyle Monsees, the International Rescue Committee (IRC)’s Volunteer & Family Mentor Coordinator, about how people can get involved locally in the important work of refugee resettlement.
 
-You can see information about this public program [here](https://www.eventbrite.com/e/welcoming-refugees-from-afghanistan-ukraine-registration-313660927277). Please [email us](mailto:communityservice@washingtoncie.org) for information about future programs–starting with our **Welcoming Refugees Community Service Fair at Caroline Freeland Urban Park, 7200 Arlington Road, Bethesda, MD 20814**, on Friday, September 17, 2:00-5:00pm. This event will bring together eight to 10 organizations and feature a storytelling program where we can hear the stories of refugees – both recently resettled and here for some time – as we come together to consider thinking globally, serving locally, and getting involved in these issues in our community.
+You can see information about this public program [here](https://www.eventbrite.com/e/welcoming-refugees-from-afghanistan-ukraine-registration-313660927277). Please [email us](mailto:communityservice@washingtoncie.org) for information about future programs–starting with our **Welcoming Refugees Community Service Fair at Caroline Freeland Urban Park, 7200 Arlington Road, Bethesda, MD 20814**, on Saturday, September 17, 2:00-5:00pm. This event will bring together eight to 10 organizations and feature a storytelling program where we can hear the stories of refugees – both recently resettled and here for some time – as we come together to consider thinking globally, serving locally, and getting involved in these issues in our community.
 
 ### Support for IRC Programs
 
@@ -41,7 +41,7 @@ Finally, we are inspired by our work with high school students, and we hope that
 </section>
 
 <div class="callout" markdown="1">
-![Invite 2022](/assets/images/refugee-resettlement/invite-2022.jpg)
+![Invite 2022](/assets/images/refugee-resettlement/invite-september-2022.jpg)
 {: style="margin-bottom: 10px;"}
 ![International Rescue Committee Logo](/assets/images/refugee-resettlement/irc.png "International Rescue Committee Logo")
 </div>
