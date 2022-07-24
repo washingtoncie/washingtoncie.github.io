@@ -29,17 +29,6 @@ The list of items below responded to Homes Not Borders’s needs to restock thei
 
 **Gift Cards**: grocery stores, Target, etc.
 
-### Where to Donate
-
-Collection boxes were placed on the curbside at the following addresses, daily, from 8 am to 8 pm, from April 20-May 1:
-
-- 8509 Howell Rd - Bethesda - MD - 20817
-- 5803 Tudor Ln - Rockville - MD - 20852
-- 605 Fulton Ave - Falls Church - VA - 22046
-- 6901 Winterberry Lane - Bethesda - Maryland - 20817
-
-In addition, donors dropped donations at English Now!, 4963 Elm Street, Suite 300, Bethesda, MD 20814, any day Monday through Friday, at between 9am and 1pm.
-
 ## For More Information & an Invitation to Learn More
 
 If you have questions about our Donation drive, please email [Anna Hauache](mailto:amghauache@hotmail.com) or [Claudia Mansmann](mailto:Claudia.mansmann@gmx.de).
