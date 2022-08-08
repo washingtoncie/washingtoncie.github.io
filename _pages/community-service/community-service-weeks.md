@@ -9,7 +9,7 @@ styles:
 
 ## Join Our "Community Service Week" Activities. Think Globally, Serve Locally!
 
-**The Washington Center for International Education (WCIE)**, a Washington, D.C.-based non-profit 501(c)(3) organization, is happy to announce its Fall 2022 Community Service Week, to bring us together for engaging programs serving our community, September 9-20, 2022. WCIE organizes community service programs in collaboration with **English Now!**, an English school located in Bethesda, Maryland. English Now! will serve as the co-sponsor of Community Service Week.
+**The Washington Center for International Education (WCIE)**, a Washington, D.C.-based non-profit 501(c)(3) organization, is happy to announce its Fall 2022 Community Service Week, to bring us together for engaging programs serving our community, September 9-20, 2022.” WCIE organizes community service programs in collaboration with **English Now!**, an English school located in Bethesda, Maryland. English Now! will serve as the co-sponsor of Community Service Week.
 
 WCIE and English Now! have organized Community Service Weeks twice a year since 2015. Our goals for this effort are to connect the area's international and local communities, inspire community engagement, and mobilize volunteers to support local organizations doing great work in the community. **Let’s think globally and serve & engage locally, together!**
 
@@ -22,7 +22,9 @@ Activities will start in September and continue through the fall, with monthly a
 
 Watch here for more information about activities for this and future Community Service Weeks, and we invite you to get involved!
 
-In addition, we invite you to learn more about and [serve refugee families](https://washingtoncie.org/community-service/refugee-resettlement) as they arrive in the area. We are especially excited to extend an invitation to join us at a **Welcoming Refugees Community Service Fair at Caroline Freeland Urban Park, 7200 Arlington Road, Bethesda, MD 20814**, on Saturday, September 17, 2:00-5:00pm.
+In addition, we invite you to learn more about and [serve refugee families](https://washingtoncie.org/community-service/refugee-resettlement) as they arrive in the area. We are especially excited to extend an invitation to join us at a **Welcoming Refugees Community Service Fair at Caroline Freeland Urban Park, 7200 Arlington Road, Bethesda, MD 20814**, on Saturday, September 17, 2:00-5:00pm. RSVP [here](https://www.eventbrite.com/e/welcoming-refugees-community-service-fair-tickets-393998880257) to join us to meet organizations active in welcoming refugees in our community - and for conversations with refugees and people who serve them.
+
+WCIE and English Now! thank Community Service Fair program co-sponsors including the International Rescue Committee (IRC) and Montgomery County's Linkages to Learning.
 
 **Partners.** ​​WCIE and English Now! are pleased to serve the community through partnerships with great local organizations including the International Rescue Committee (IRC), Homes Not Borders, THIS for Diplomats, Shepherd’s Table, The Residences at Thomas Circle, Little Lights, Community Reach of Montgomery County, Identity, Inc., September House MAJ, the Connie Morella (Bethesda) Library, and more–as well as Montgomery County partners including MCAEL, Linkages to Learning/Shephard Pratt, and Montgomery Serves.
 
@@ -36,6 +38,6 @@ In addition, we invite you to learn more about and [serve refugee families](http
 <p>
     <a href="/assets/files/community-service/community-service-week-flyer-spring-2022.pdf" target="_blank"><img src="/assets/files/community-service/community-service-week-flyer-spring-2022.jpg" alt="WCIE-English Now! Community Service Week Flyer Spring 2022"></a>
 </p>
-{: style="margin-bottom: 650px;"}
+{: style="margin-bottom: 520px;"}
 ![Community service week team](/assets/images/community-service-week/team.jpg)
 </div>
