@@ -13,11 +13,10 @@ styles:
 
 WCIE and English Now! have organized Community Service Weeks twice a year since 2015. Our goals for this effort are to connect the area's international and local communities, inspire community engagement, and mobilize volunteers to support local organizations doing great work in the community. **Let’s think globally and serve & engage locally, together!**
 
-Activities will start in September and continue through the fall, with monthly activities ongoing in October and November. Links to sign up will be posted by mid-August. Bookmark this website – and we look forward to you joining us for activities including the following:
-
-- Saturday, September 10 - furnish an apartment for a newly-arrived refugee family;
-- Thursday, September 15 - connect with residents of a senior living community for a gardening activity;
-- Tuesday, September 20 - serve a meal to food insecure residents of the area; and
+Activities will start in September and continue through the fall, with monthly activities ongoing in October and November. Links to sign up are below. Bookmark this website – and we look forward to you joining us for activities including the following:
+- Saturday, September 10 - furnish an apartment for a newly-arrived refugee family, morning and/or afternoon time slots available, more information and sign up [here](https://www.signupgenius.com/go/70A0F44ACAF2FA5F58-furnish1);
+- Thursday, September 15 - connect with residents of a senior living community in Northwest D.C. for a gardening activity, more information and sign up [here](https://www.signupgenius.com/go/70A0F44ACAF2FA5F58-thomas1);
+- Tuesday, September 20 - serve a meal to food insecure residents of the area in Silver Spring, more information and sign up [here](https://www.signupgenius.com/go/70A0F44ACAF2FA5F58-shepherds1); and
 - help neighbors in need through a [household goods and furniture drive](https://washingtoncie.org/community-service/household-goods-and-food-drive).
 
 Watch here for more information about activities for this and future Community Service Weeks, and we invite you to get involved!
@@ -36,7 +35,7 @@ WCIE and English Now! thank Community Service Fair program co-sponsors including
 </section>
 <div class="callout" markdown=1>
 <p>
-    <a href="/assets/files/community-service/community-service-week-flyer-spring-2022.pdf" target="_blank"><img src="/assets/files/community-service/community-service-week-flyer-spring-2022.jpg" alt="WCIE-English Now! Community Service Week Flyer Spring 2022"></a>
+    <a href="/assets/files/community-service/community-service-week-flyer-fall-2022.pdf" target="_blank"><img src="/assets/files/community-service/community-service-week-flyer-fall-2022.png" alt="WCIE-English Now! Community Service Week Flyer Fall 2022"></a>
 </p>
 {: style="margin-bottom: 520px;"}
 ![Community service week team](/assets/images/community-service-week/team.jpg)
