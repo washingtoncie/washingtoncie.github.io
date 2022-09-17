@@ -11,7 +11,7 @@ We appreciate your gift to WCIE to support our efforts. Your gift is tax deducti
 
 ## Support Our ESOL Programs for Refugees
 
-We are teaching over 40 refugee students. These students are studying in small group classes of four students maximum, taught by professional, experienced ESOL instructors. This model that will enable our students to advance quickly in English proficiency and support their adjustment to life in the United States. The direct cost of these programs is approximately $125 per student per month. Please consider supporting a student with a monthly donation - or even an entire class for a donation of $500 per class per month. Donate [here](https://www.paypal.com/donate/?hosted_button_id=2KPCUXRC6MV66) and email us if you would like to let us know more about the student(s) you’d like to support.
+We are teaching over 40 refugee students. These students are studying in small group classes of four students maximum, taught by professional, experienced ESOL instructors. This model that will enable our students to advance quickly in English proficiency and support their adjustment to life in the United States. The direct cost of these programs is approximately $125 per student per month. Please consider supporting a student with a monthly donation - or even an entire class for a donation of $500 per class per month. Donate [here](https://www.paypal.com/donate/?hosted_button_id=2KPCUXRC6MV66) and [email us](mailto:communityservice@washingtoncie.org) if you would like to let us know more about the student(s) you’d like to support.
 
 ## Community Service Week Support
 
