@@ -9,6 +9,10 @@ We thank you for your interest in the Washington Center for International Educat
 
 We appreciate your gift to WCIE to support our efforts. Your gift is tax deductible, and we are happy to provide a letter documenting your contribution. Donate [here](https://www.paypal.com/donate/?hosted_button_id=2KPCUXRC6MV66).
 
+## Support Our ESOL Programs for Refugees
+
+We are teaching over 40 refugee students. These students are studying in small group classes of four students maximum, taught by professional, experienced ESOL instructors. This model that will enable our students to advance quickly in English proficiency and support their adjustment to life in the United States. The direct cost of these programs is approximately $125 per student per month. Please consider supporting a student with a monthly donation - or even an entire class for a donation of $500 per class per month. Donate [here](https://www.paypal.com/donate/?hosted_button_id=2KPCUXRC6MV66) and email us if you would like to let us know more about the student(s) you’d like to support.
+
 ## Community Service Week Support
 
 We invite you to consider supporting our Community Service Week activities. Our programs bring the international and local communities and connect people to the community. This is a great way to learn more about what we do and to get engaged in our work. [Learn more](/community-service/community-service-weeks) and [contact us](/contact), to get involved!
