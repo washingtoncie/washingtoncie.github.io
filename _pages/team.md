@@ -25,7 +25,7 @@ Dr. Elisa Zhai Autry is WCIE's co-founder and executive director. She is passion
 
 Paul Boesen is a WCIE co-founder and serves as Chair of its Board of Governors. He also serves as managing director of WCIE’s partner, English Now!, an English language school in Bethesda, Maryland, supporting the development of Community Service and Student Service Learning (SSL) programs that serve the school and broader international community, and also as VP-Administration of GreenPoint Group, a strategic advisory firm that connects people and resources in the United States and China. Paul’s background in education includes experience in general management as well as international program development and administration. Prior to his work in education, Paul worked in investment banking and private equity for the Goldman Sachs Group in New York, Frankfurt, and Singapore; and for the World Economic Forum in Geneva and Beijing. He also served as executive director of the US-China Education Trust; on the Steering Committee of the One Million Strong Initiative, a Presidential Initiative to promote Chinese language education in American K-12 schools; and is a co-founder of Welcoming Falls Church, a Falls Church, Virginia-based non-profit organization that supports refugee resettlement in Northern Virginia. Paul’s academic background is in economics, Asian studies, and law. He is a graduate of the University of Michigan and Harvard Law School and resides in Falls Church, Virginia, with his wife, Elizabeth, and their three children.
 
-# ESOL Programs for Refugees
+# Program Administration
 
 ![Anna Green Picture](/assets/images/team/anna-green.jpg "Anna Green Picture")
 
@@ -42,6 +42,20 @@ Anna Green serves as WCIE’s Director of Academic Advising and as an English La
 **_Student Advisor_**
 
 Robina Mohibzada is a WCIE Student Advisor working with Dari- and Pashto-speaking students. Robina was trained as a teacher, graduating from Sayed Jamaluddin Teacher Training College in Afghanistan. She served as an English Teacher, Parents Relation Officer, and administrative officer at Afghanistan International School. Later, she also worked with the United States Agency for International Development (USAID) Promote Project, on programs related to women empowerment, education, and gender equality. Robina was studying for a Bachelor’s degree in Business Administration when she was evacuated from Afghanistan to the U.S. in Summer 2021. She speaks Dari, Pashto, Urdo, Hindi, and English, and she is passionate about pursuing further higher education to advance in her career. Robina is interested in having more friends from around the world and learning about various cultures, and she enjoys being helpful to others. In her spare time, she enjoys hiking, fitness, swimming, sightseeing, traveling, cooking, watching movies, and spending time with family and friends.
+
+# Advisors
+
+![Kamila Noori Picture](/assets/images/team/kamila-noori.jpg)
+
+## Kamila Noori
+
+Kamila Noori is a former Afghan Supreme Court Judicial Advisor, who notably held a staunch position against internal and external terrorism across Afghanistan over the past two decades. Kamila has stood firm and resilient in serving her country by sentencing the leaders, members and allies of the terrorist groups, including current leaders of the Taliban regime. She has dedicated her knowledge and experience to confronting terrorism in the region and fought for a just and equal society for all Afghans. Kamila has resettled in the United States and now lives in Virginia.
+
+![Elizabeth Boesen Picture](/assets/images/team/elizabeth-boesen.jpg)
+
+## Elizabeth Boesen
+
+Elizabeth Boesen is the Assistant Director of Public Service Initiatives at Georgetown University’s School of Foreign Service and advises WCIE on career counseling for students in its programs. Elizabeth is certified in administration of Myers Briggs Type Indicator (MBTI), StrengthsFinder, and Enneagram assessments. She has taught ESOL at Phillips Academy Andover and is a certified (Interchange Institute) cross-cultural trainer. She has lived, studied and worked on three continents and in five countries, and is fascinated by language, cultural differences/similarities, and human development. Elizabeth has a background in international development, having worked as Regional Director-Asia for the International Youth Foundation, and as a member of the U.S. grantmaking team at Ashoka. Elizabeth has a B.A. in Political Science from the University of Chicago and an M.A. in International Relations from the Institut d'Hautes Etudes Internationales of the University of Geneva in Switzerland. She resides in Falls Church, Virginia, with her husband and three children.
 
 # ESOL and Student Service Learning Programs
 
@@ -116,11 +130,3 @@ Amanda Wilder serves as Program Director of WCIE’s Youth Facing Racism program
 **_Program Director_**
 
 Nancy L. Wolf has served as Co-Program Director of WCIE’s Youth Facing the Global Refugee and Migration Crisis program and as an English Language Instructor at English Now! and will take a leadership role in the program to serve Afghani women judges. Nancy is an international educator with a background in international relations and the law. After growing up in Fairfield, Connecticut, Nancy went to Smith College where she majored in Latin American Studies and then to The Fletcher School of Law and Diplomacy (Tufts University) to get her Masters Degree. Not content with two degrees, Nancy then went to law school at George Washington University to obtain her J.D. and spent many years as a lawyer with and partner at two D.C. firms where she specialized in communications law. After leaving the law, Nancy returned to her first love – the classroom. She’s taught ESL since 2017 and received her TEFL Certificate from Georgetown University. Nancy has lived with her husband Jim in Chevy Chase, Maryland for over 35 years. They have two adult children and two brilliant grandchildren.
-
-# Advisors
-
-![Elizabeth Boesen Picture](/assets/images/team/elizabeth-boesen.jpg)
-
-## Elizabeth Boesen
-
-Elizabeth Boesen is the Assistant Director of Public Service Initiatives at Georgetown University’s School of Foreign Service and advises WCIE on career counseling for students in its programs. Elizabeth is certified in administration of Myers Briggs Type Indicator (MBTI), StrengthsFinder, and Enneagram assessments. She has taught ESOL at Phillips Academy Andover and is a certified (Interchange Institute) cross-cultural trainer. She has lived, studied and worked on three continents and in five countries, and is fascinated by language, cultural differences/similarities, and human development. Elizabeth has a background in international development, having worked as Regional Director-Asia for the International Youth Foundation, and as a member of the U.S. grantmaking team at Ashoka. Elizabeth has a B.A. in Political Science from the University of Chicago and an M.A. in International Relations from the Institut d'Hautes Etudes Internationales of the University of Geneva in Switzerland. She resides in Falls Church, Virginia, with her husband and three children.

@@ -16,6 +16,7 @@ p > img {
 main h1 {
     color: var(--turquoise);
     font-size: 1.5em;
+    padding-top: 3em;
 }
 
 h2:not(:first-of-type), main img {
