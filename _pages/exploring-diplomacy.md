@@ -30,7 +30,7 @@ Our programs also offer an unusual opportunity for American and international st
 
 Prep sessions for programs are held online or are hosted by WCIE partner [English Now](http://english-now.com/)! in Bethesda, Maryland, and diplomacy simulations are held at the U.S. Department of State’s National Museum of American Diplomacy.
 
-We will announce dates for new programs as soon as the Department of State restarts in-person simulations. For more information and to stay informed about dates for new program offerings, [email us](mailto:communityservice@washingtoncie.org) or ask at English Now!
+We will announce dates for new programs as soon as the Department of State restarts in-person simulations - we eagerly await this moment and hope it happens in early 2023! For more information and to stay informed about dates for new program offerings, [email us](mailto:communityservice@washingtoncie.org) or ask at English Now!
 
 </section>
 
