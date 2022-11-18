@@ -49,7 +49,13 @@ Robina Mohibzada is a WCIE Student Advisor working with Dari- and Pashto-speakin
 
 ## Kamila Noori
 
-Kamila Noori is a former Afghan Supreme Court Judicial Advisor, who notably held a staunch position against internal and external terrorism across Afghanistan over the past two decades. Kamila has stood firm and resilient in serving her country by sentencing the leaders, members and allies of the terrorist groups, including current leaders of the Taliban regime. She has dedicated her knowledge and experience to confronting terrorism in the region and fought for a just and equal society for all Afghans. Kamila has resettled in the United States and now lives in Virginia.
+Kamila Noori is a former Afghan Supreme Court Judicial Advisor, who notably held a staunch position against internal and external terrorism across Afghanistan over the past two decades. Kamila has stood firm and resilient in serving her country by sentencing the leaders, members and allies of the terrorist groups, including current leaders of the Taliban regime. She has dedicated her knowledge and experience to confronting terrorism in the region and fought for a just and equal society for all Afghans. Kamila has resettled in the United States and now lives in Virginia. She advises WCIE on design of the ESOL program offered to judges from Afghanistan and additional programs offered to those students.
+
+![Gersende Watteau Picture](/assets/images/team/gersende-watteau.jpg)
+
+## Gersende Watteau
+
+Gersende is currently on leave from her role as Senior Legal Counsel in Public Business Law, working for a French financial institution. Gersende settled with her family in the D.C. area in August 2020. She is involved in community service in the area, with organizations such as WCIE. She advises WCIE programs offered to judges from Afghanistan, directing a personal and professional development program that supplements WCIE ESOL offerings. Gersende's background is in European Law, International Relations, and Business Management. She served first in the private sector and then for French government institutions. She has traveled in numerous countries, has always enjoyed working in a cross-cultural environment, and is highly motivated to understand the environment where she evolves. Her past volunteer roles include serving on the Steering Committee of the International Women's Club of Moscow to raise funds for Russian children's hospitals and women in need, from 2010 to 2012. Gersende lives with her family in Maryland.
 
 ![Elizabeth Boesen Picture](/assets/images/team/elizabeth-boesen.jpg)
 
@@ -107,6 +113,14 @@ Susan Kay serves as Co-Program Director of WCIE’s Youth Facing the Global Refu
 
 Linda La Pierre is an educator and artist with more than 20 years of experience teaching English to adults from all over the world. She has worked in a variety of educational settings both here and abroad, including college-level Intensive English Programs, a community ESL program for adult immigrants, and a private language school where she taught ESL to the spouses of foreign diplomats. Linda studied Community Service Education and Applied Linguistics at the graduate level at Cornell University, and completed a Bachelor's Degree in Spanish at Emmanuel College in Boston. In addition to Spanish, she has studied French, Polish, Serbo-Croatian, and Portuguese; she has lived and worked in France, Serbia, Poland, and Spain. Previous work experience has also included positions in the fields of media production and community outreach. As a painter, Linda has worked in dry pastel, watercolor, and acrylic. She is currently experimenting with stop-action animation using a digital camera and personal computer. Linda lives with her family in Northern Virginia.
 
+![Elizabeth Larson Picture](/assets/images/team/elizabeth-larson.jpg)
+
+## Elizabeth Larson
+
+**_Program Director_**
+
+Elizabeth Larson grew up in Michigan and resides in Bethesda, Maryland, after relocating from Frankfurt, Germany, where she lived for 20 years. Elizabeth studied history, Russian Studies and English in Michigan and earned secondary education teaching certification there. She continued her education at Indiana University, where she earned an M.A. in History. She started teaching ESOL to adults in Germany and fell in love with the profession. She's taught all levels of English and especially loves watching students make tangible progress towards their goals. Elizabeth has traveled widely and has lived in Germany, the Republic of Moldova, and Canada. She lives in Bethesda with her German husband and three children.
+
 ![Cristina Rendueles-Stern Picture](/assets/images/team/cristina-rendueles-stern.jpg)
 
 ## Cristina Rendueles-Stern
@@ -114,6 +128,14 @@ Linda La Pierre is an educator and artist with more than 20 years of experience 
 **_Program Director_**
 
 Cristina Rendueles-Stern was born in New York City and has had a rich and varied life. She lived as a young child in Manila, the Philippines; moved to Washington D.C., where she attended elementary school; and returned to New York City for high school and undergraduate studies at Marymount Manhattan College. Next was Madrid, Spain, where she taught English as a Foreign Language at the Casa Americana, before returning to the U.S. 11 years later to study at the Graduate School of Education at the University of Pennsylvania. After receiving her M.A. in Education, Cristina settled in Washington D.C., where she taught ESOL in the D.C. Public School System. Soon after this she took a teaching position for Montgomery County Public Schools, where she taught ESOL for 20 years. Cristina retired from MCPS in 2011 and has taught English in private settings for many years. Cristina has been married for 20 years and lives with her husband, stepson, two dogs, and three cats in Montgomery Village.
+
+![Laurel Reiner Picture](/assets/images/team/laurel-reiner.jpg)
+
+## Laurel Reiner 
+
+**_Program Director_**
+
+Laurel Reiner has a profoundly international background and brings a lifetime of perspective to the classroom. Laurel was born in Paris, France, spent the first four years of her life there, and then lived in Santiago, Chile between ages five and nine. By the age of nine, she spoke French and Spanish fluently, and she continued her international experience living in Costa Rica for two years in her early teens, then spent her junior year abroad in Israel where she studied Hebrew. Laurel has continued with Spanish and French and used Spanish professionally for over 30 years, as a community organizer working for the United Farm Workers' Union, organizing John Kerry's Congressional campaign as his Latino organizer registering people to vote in Lowell and Lawrence, Massachusetts, and later in both those communities as a CETA worker. Laurel's ESL career began in 1975 after graduating from college. She has taught, run a community ESL program for adults, and taught locally at Montgomery College, the Fairfax County Adult Education program, the Embassy of Japan, and at Japanese-affiliated businesses. As additional elements of her diverse background, Laurel has also worked in fundraising and in program development with AmeriCorps, and in a local school as a bilingual social worker. Laurel has a Master's in Social Work.
 
 ![Amanda Wilder Picture](/assets/images/team/amanda-wilder.jpg "Amanda Wilder Picture")
 
