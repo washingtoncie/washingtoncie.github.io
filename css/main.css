@@ -43,7 +43,7 @@ h3 {
 a {
     color: var(--tertiary);
 }
-p {
+p, ul {
     color: var(--text-color);
     line-height: 1.25;
     font-size: 20px;
