@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /community-service/refugee-resettlement/esol-programs-for-refugees
-title: ESOL Programs for Refugee
+title: ESOL Programs for Refugees
 ---
 <section markdown="1">
 WCIE’s English for Speakers of Other Languages (ESOL) programs for refugees respond to a vital need, as English is crucial in transition to life in the U.S. and connects newcomers to their communities.
