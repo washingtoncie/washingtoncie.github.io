@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /community-service/household-goods-and-furniture-drive
 title: Household Goods & Food Drive
 ---
 ## Household Goods & Furniture Drive
