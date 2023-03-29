@@ -29,6 +29,8 @@ Paul Boesen is a WCIE co-founder and serves as Chair of its Board of Governors. 
 
 ## Sally Dai
 
+**_Research Fellow_**
+
 Sally Y. Dai is a WCIE Research Fellow. Sally graduated from American University in Washington D.C. with a Master of Science degree in Health Promotion Management and is pursuing a Master's degree in International Development with a focus on global health.
 
 Sally is a Certified Health Education Specialist with a research interest in health education and promotion in the DMV area. She speaks Mandarin, Cantonese, Thai, and English. Her research interests are health and living conditions of immigrants, including their integration, health disparities, social mobility, migrant children’s health, migrant women’s health, immigration health policies, etc.
