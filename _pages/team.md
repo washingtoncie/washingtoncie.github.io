@@ -25,6 +25,18 @@ Dr. Elisa Zhai Autry is WCIE's co-founder and executive director. She is passion
 
 Paul Boesen is a WCIE co-founder and serves as Chair of its Board of Governors. He also serves as managing director of WCIE’s partner, English Now!, an English language school in Bethesda, Maryland, supporting the development of Community Service and Student Service Learning (SSL) programs that serve the school and broader international community, and also as VP-Administration of GreenPoint Group, a strategic advisory firm that connects people and resources in the United States and China. Paul’s background in education includes experience in general management as well as international program development and administration. Prior to his work in education, Paul worked in investment banking and private equity for the Goldman Sachs Group in New York, Frankfurt, and Singapore; and for the World Economic Forum in Geneva and Beijing. He also served as executive director of the US-China Education Trust; on the Steering Committee of the One Million Strong Initiative, a Presidential Initiative to promote Chinese language education in American K-12 schools; and is a co-founder of Welcoming Falls Church, a Falls Church, Virginia-based non-profit organization that supports refugee resettlement in Northern Virginia. Paul’s academic background is in economics, Asian studies, and law. He is a graduate of the University of Michigan and Harvard Law School and resides in Falls Church, Virginia, with his wife, Elizabeth, and their three children.
 
+![Sally Dai Picture](/assets/images/team/sally-dai.jpg "Sally Dai Picture")
+
+## Sally Dai
+
+Sally Y. Dai is a WCIE Research Fellow. Sally graduated from American University in Washington D.C. with a Master of Science degree in Health Promotion Management and is pursuing a Master's degree in International Development with a focus on global health.
+
+Sally is a Certified Health Education Specialist with a research interest in health education and promotion in the DMV area. She speaks Mandarin, Cantonese, Thai, and English. Her research interests are health and living conditions of immigrants, including their integration, health disparities, social mobility, migrant children’s health, migrant women’s health, immigration health policies, etc.
+
+Sally has lived in Thailand, Singapore, and the UK, before moving to the U.S. with her family. Sally enjoys traveling and experiencing new cultures, cuisines, and languages.  She has visited more than 40 cities in 20 countries – traveling inspires her. Sally appreciates and respects other’s cultures, values, and unique qualities. Her experiences help her greatly in her work with migrant communities.
+
+Sally and her family reside in Bethesda, Maryland.
+
 # Program Administration
 
 ![Anna Green Picture](/assets/images/team/anna-green.jpg "Anna Green Picture")
