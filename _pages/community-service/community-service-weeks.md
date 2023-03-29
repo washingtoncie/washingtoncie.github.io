@@ -16,7 +16,7 @@ Our Fall 2022 Community Service Week featured our biggest event yet - a **Welcom
 
 **Spring 2023 Community Service Week Event.*** Building on the success of our Fall 2022 Community Service Fair, the Washington Center for International Education is partnering with co-sponsors including American University’s Immigration Lab to convene a public workshop on [The Health & Wellness of Afghan Newcomers]. This workshop aims to identify community resources and prepare a plan of action to overcome obstacles to well-being for the Afghan community. JOIN US for this meaningful discussion this May.
 
-[The Health & Wellness of Afghan Newcomers]: /community-service/health-and-wellness-of-afghan-newcomers
+[The Health & Wellness of Afghan Newcomers]: /community-service/refugee-resettlement/health-and-wellness-of-afghan-newcomers
 
 **Partners.** WCIE is pleased to serve the community through partnerships with great local organizations including the Fulbright Association’s National Capital Area Chapter, American University’s Immigration Lab, the International Rescue Committee (IRC), Homes Not Borders, THIS for Diplomats, Shepherd’s Table, The Residences at Thomas Circle, Little Lights, Community Reach of Montgomery County, Identity, Inc., September House MAJ, the Connie Morella (Bethesda) Library, and more–as well as Montgomery County partners including MCAEL, Linkages to Learning/Shephard Pratt, and Montgomery Serves.
 
