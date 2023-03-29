@@ -17,16 +17,21 @@ WCIE has been sponsoring enrollments of recently-resettled refugees in our partn
 
 We see a dramatic need for English language learning support on the part of Afghan evacuees as well as other IRC clients – and an opportunity to deliver programs targeting specific audiences that are not reached by other providers.
 
-We have been asked by partners - and have the opportunity - to offer some very special ESOL Programs for Refugees, and we have welcomed many more refugee students to classes during 2022. We are now teaching students directly in online classes of four students maximum, and we’re seeking support from the community for this initiative. See [here](/community-service/refugee-resettlement/esol-programs-for-refugees) for information about WCIE’s ESOL offerings and how to support this effort.
+We have been asked by partners - and have the opportunity - to offer some very special ESOL Programs for Refugees, and we welcomed many more refugee students to classes starting in August 2022. We are now teaching students directly in online classes of four students maximum, and we’re seeking support from the community for this initiative. See [here](/community-service/refugee-resettlement/esol-programs-for-refugees) for information about WCIE’s ESOL offerings and how to support this effort.
 
 ### Community Learning
 
 WCIE organizes community learning events to help like-minded people and organizations understand how to resettle refugees well, and to encourage people to get involved in refugee resettlement.
 
-Two significant Community Learning events focusing on refugee resettlement in 2022:
+Two significant Community Learning events focused on refugee resettlement in 2022:
 
 - Our **Welcoming Refugees Community Service Fair** on September 17, brought together over 100 people to meet 10 organizations  active in welcoming refugees in our community - and for a Sharing Stories program - conversations with refugees about their experiences in the U.S. (see adjacent photo). See [here](https://www.eventbrite.com/e/welcoming-refugees-community-service-fair-tickets-393998880257) for information about that great event.
 - Our **Welcoming Refugees from Afghanistan & Ukraine** program on May 9, featured speakers, Mikhail Basyuk, who shared a Ukrainian-Russian’s perspective–a personal story of coming to the U.S.; and Sarwar Azizi, who served as a senior official in Afghanistan’s Central Bank and Ministry of Education, and who spoke about his family’s experience as well as the needs of Afghan evacuees settling in the area and around the country. See information about this public program [here](https://www.eventbrite.com/e/welcoming-refugees-from-afghanistan-ukraine-registration-313660927277).
+
+Community Learning events continue in 2023, with an upcoming Spring 2023 Community Service Week Event. WCIE is partnering with co-sponsors including American University’s Immigration Lab to convene a public workshop on [The Health & Wellness of Afghan Newcomers] in May. This workshop aims to identify community resources and prepare a plan of action to overcome obstacles to well-being for the Afghan community. JOIN US for this meaningful discussion this May. See [here] for more information, and email us if you’d like to join us.
+
+[The Health & Wellness of Afghan Newcomers]: /community-service/refugee-resettlement/health-and-wellness-of-afghan-newcomers
+[here]: /community-service/refugee-resettlement/health-and-wellness-of-afghan-newcomers
 
 ### Support for IRC Programs
 
