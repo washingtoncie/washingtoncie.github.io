@@ -49,6 +49,15 @@ Sally and her family reside in Bethesda, Maryland.
 
 Anna Green serves as WCIE’s Director of Academic Advising and as an English Language Instructor at English Now! She has a longstanding interest in education and youth development and truly enjoys teaching and working with students of all ages and levels. Anna received her master’s degree in TESOL from UMBC in 2018. Previously, she volunteered with the U.S. Peace Corps in Morocco as a youth development volunteer and, before that, worked as a museum teacher at Historic St. Mary’s City in southern Maryland. A graduate of Washington College with a degree in Anthropology and History, Anna also enjoys studying history, culture, and languages. Correspondingly, she loves reading historical fiction and traveling with her husband and two young daughters.
 
+![Dewa Khairkhwa Picture](/assets/images/team/dewa-khairkhwa.jpg "Dewa Khairkhwa Picture")
+
+## Dewa Khairkhwa
+
+**_Student Advisor_**
+
+Dewa Khairkhwa is a WCIE student advisor working with Dari- and Pashto-speaking
+students and also supports other WCIE programs related to refugee resettlement. Dewa was an instructor teaching IT topics at the Afghan Institute of Technology in Kabul, Afghanistan, when she was evacuated from her country to the U.S. in November 2021. Dewa graduated with a degree in computer Science from Kabul University. Her work experience includes service as trainer in capacity building of Afghanistan’s Ministry of Foreign Affairs and Ministry of Agriculture. Dewa is eager to continue her education in the future in the U.S. with a focus on IT. She lives with her husband and two daughters in Maryland.
+
 ![Robina Mohibzada Picture](/assets/images/team/robina-mohibzada.jpg "Robina Mohibzada Picture")
 
 ## Robina Mohibzada
