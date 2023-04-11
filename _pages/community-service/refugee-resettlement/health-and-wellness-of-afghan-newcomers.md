@@ -7,9 +7,9 @@ title: "Workshop: Health & Wellness of Afghan Newcomers"
 
 **Invitation:** We’ll gather - Afghan newcomers as well as health care professionals, representatives of organizations working with Afghans, and friends and volunteers caring for Afghan and other refugees - to share information and explore this important topic.
 
-**Date:** May 2023, date/time to be confirmed - _please [email us] if you’d like to be informed of the date and time, when confirmed_
+**Date:** Tuesday, May 23, 2:00-4:00pm; American University, Department of Sociology, Main Campus, Mary Graydon Center Room 245. For more information and to register to join us, see [here].
 
-[email us]: mailto:communityservice@washingtoncie.org
+[here]: https://www.eventbrite.com/e/workshop-health-wellness-of-afghan-newcomers-tickets-615537518287
 
 **Venue:** American University
 
