@@ -21,7 +21,9 @@ title: "Workshop: Health & Wellness of Afghan Newcomers"
 
 **Sponsor:** Washington Center for International Education
 
-**Co-Sponsors:** American University’s Immigrant Lab; _please contact us if your organization would like to be a co-sponsor and help us to get the word out about this important event._
+**Host and Program Co-Sponsor:** American University’s Immigrant Lab
+
+**Co-Sponsors:** KindWorks and Mozaic; _please contact us if your organization would like to be a co-sponsor and help us to get the word out about this important event._
 
 **Program Description:** The Taliban takeover of Afghanistan in August 2021 created a refugee crisis, with [more than 88,500 Afghans arriving in the U.S. since August 2021], with [more than 6000 settling in Maryland and Virginia].
 
