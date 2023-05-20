@@ -14,16 +14,24 @@ title: "Workshop: Health & Wellness of Afghan Newcomers"
 **Venue:** American University
 
 **Confirmed Speakers:**
-- Prof. M. Bashir Mobasher, Postdoc, American University Department of Sociology; Antidiscrimination Advocate; Researcher & Author; and American University’s first [Afghan Exile Scholar Postdoctoral Fellow]
+
+- Prof. M. Bashir Mobasher, Postdoc, American University Department of Sociology; Antidiscrimination Advocate; Researcher & Author; and American University’s [first Afghan Exile Scholar Postdoctoral Fellow]
+
+[first Afghan Exile Scholar Postdoctoral Fellow]: https://www.american.edu/cas/news/au-welcomes-afghan-exile-scholar-bashir-mobasher.cfm
+
 - Ms. Yvonne Clarke, recipient of the Meritorious Silver Medal for commitment and devotion in support of the President’s humanitarian action for Afghan refugees in the US
 
-[Afghan Exile Scholar Postdoctoral Fellow]: https://www.american.edu/cas/news/au-welcomes-afghan-exile-scholar-bashir-mobasher.cfm
+- Dr. Hosai Hesham, Executive Director, Afghan Medical Professionals Association of America (AMPAA)
+
+- Ms. Raghad Bushnaq, Founder & Executive Director, Mozaic DMV
 
 **Sponsor:** Washington Center for International Education
 
-**Host and Program Co-Sponsor:** American University’s Immigrant Lab
+**Co-Sponsor and Host:** American University’s Immigrant Lab
 
-**Co-Sponsors:** KindWorks and Mozaic; _please contact us if your organization would like to be a co-sponsor and help us to get the word out about this important event._
+**Program Co-Sponsors:** Afghan Medical Professionals Association of America (AMPAA) and Mozaic
+
+**Location:** American University Campus, Mary Graydon Center Room 245, 4400 Massachusetts Avenue Northwest Washington, DC 20016
 
 **Program Description:** The Taliban takeover of Afghanistan in August 2021 created a refugee crisis, with [more than 88,500 Afghans arriving in the U.S. since August 2021], with [more than 6000 settling in Maryland and Virginia].
 
