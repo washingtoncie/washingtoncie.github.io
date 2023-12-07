@@ -9,14 +9,6 @@ styles:
 
 WCIE's team is inspired by a common vision of serving international students, their families, and the educational institutions that serve those students. WCIE's founding team includes the following:
 
-![Elisa Zhai Autry Picture](/assets/images/team/elisa-autry.jpg "Elisa Zhai Autry Picture")
-
-## Elisa Zhai Autry
-
-_**Co-Founder and Member, Board of Governors**_
-
-Dr. Elisa Zhai Autry is WCIE's co-founder and executive director. She is passionate about international education and combines an Asia-focused academic background with expertise in non-profit organization management, as well as active engagement in the international education communities. Dr. Autry serves as an affiliate professor at the Center for Asia Pacific Economic Cooperation at George Mason University. In addition to her teaching, Dr. Autry has held various roles at the US-China Education Trust (USCET). At USCET, Dr. Autry worked with students, educators, and administrators from over 75 Chinese universities. She led programs on American society and culture, facilitated international conferences, and managed relationships with partners and stakeholders. Prior to joining USCET, Dr. Autry served as a program officer at the Institute for Global Engagement, where she worked with government officials, academics, and civic communities to implement global religious freedom initiatives. Before coming to Washington, Dr. Autry was as an assistant professor of sociology at Miami University. In addition to her teaching and research, she helped the university launch its Asian and Asian American Studies program. She has published widely both in English and Chinese. Dr. Autry received her Ph.D. and M.A. in Sociology from the University of Texas-Austin, and a B.A. in Sociology and Law from Peking University. She and her family reside in Alexandria, Virginia.
-
 ![Paul Boesen Picture](/assets/images/team/paul-boesen.jpg "Paul Boesen Picture")
 
 ## Paul Boesen
